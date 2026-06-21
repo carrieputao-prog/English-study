@@ -11,63 +11,73 @@
     "initial",
     "apparent",
     "nevertheless",
-    "involve"
+    "involve",
+    "abandon",
+    "beneficial",
+    "furthermore",
+    "participate",
+    "adjust",
+    "approach",
+    "bear",
+    "characteristic",
+    "accommodate",
+    "distinguish"
   ],
   "last_story_words": [
-    "meanwhile",
-    "current",
-    "accessible",
-    "insight",
-    "identify",
-    "resolve",
-    "initial",
-    "apparent",
-    "nevertheless",
-    "involve"
+    "abandon",
+    "beneficial",
+    "furthermore",
+    "participate",
+    "adjust",
+    "approach",
+    "bear",
+    "characteristic",
+    "accommodate",
+    "distinguish"
   ],
   "used_question_fingerprints": [],
   "cycle": {
-    "id": "2026-06-18",
+    "id": "2026-06-22",
     "words": [
       {
-        "word": "meanwhile",
-        "translation": "与此同时"
+        "word": "abandon",
+        "translation": "放弃；遗弃"
       },
       {
-        "word": "current",
-        "translation": "当前的，现在的 (n.) 水流，电流"
+        "word": "beneficial",
+        "translation": "有益的，有利的"
       },
       {
-        "word": "accessible",
-        "translation": "易接近的，可进入的"
+        "word": "furthermore",
+        "translation": "此外，而且"
       },
       {
-        "word": "insight",
-        "translation": "洞察力，见识"
+        "word": "participate",
+        "translation": "参与，参加"
       },
       {
-        "word": "identify",
-        "translation": "认出，鉴定；确认"
+        "word": "adjust",
+        "translation": "调整；适应"
       },
       {
-        "word": "resolve",
-        "translation": "决定；解决（问题）"
+        "word": "approach",
+        "translation": "方法，途径；靠近"
       },
       {
-        "word": "initial",
-        "translation": "最初的，开头的"
+        "word": "bear",
+        "translation": "忍受；承担；结（果实）"
       },
       {
-        "word": "apparent",
-        "translation": "显然的，明显的"
+        "word": "characteristic",
+        "translation": "特征，特色"
       },
       {
-        "word": "nevertheless",
-        "translation": "然而"
+        "word": "accommodate",
+        "translation": "容纳；提供住宿"
       },
       {
-        "word": "involve",
-        "translation": "包含；牵涉"
+        "word": "distinguish",
+        "translation": "区别，辨别"
       }
     ],
     "previous_questions": [],
@@ -77,6 +87,10 @@
     "2026-06-18": {
       "kind": "story",
       "file": "daily/2026/06/2026-06-18-story.md"
+    },
+    "2026-06-22": {
+      "kind": "story",
+      "file": "daily/2026/06/2026-06-22-story.md"
     }
   }
 }
