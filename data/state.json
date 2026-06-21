@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "word_epoch": 1,
+  "used_story_words": [],
+  "last_story_words": [],
+  "used_question_fingerprints": [],
+  "cycle": null,
+  "runs": {}
+}
