@@ -35,7 +35,18 @@
     "accommodate",
     "distinguish"
   ],
-  "used_question_fingerprints": [],
+  "used_question_fingerprints": [
+    "099818395d91fc2feff66c93ecf0ed80e8e6cd501000b5aa4a08121ee957be75",
+    "3d18c1267e0db37ea1ec5413ebacf238fefdb954578cbec33b6d4819ba3572d4",
+    "d295a3f46e8528533ae03bfd137f97f89744f3dc34bf427ed39d59da13bd845a",
+    "dfe5cc9145319905c5b556e2750ad3f3c0e652225a61a5975906bc1fe88bae1b",
+    "c75cc14f3ee95772ee3bec5c8fbb2d567a04b8ed3b0d35480c35e5962d9aa59c",
+    "32462c0f4de7192aebae77556c1812a8afaf95f7342fb41de420c7ccc85f03bf",
+    "d2b5b53846043beb9ecd9587f78bb56ed1f71afe41323597e5128ce1924f9f7f",
+    "5737013a20c06f6f40a0540c9cc10a1712d7692eb8381edd2c6215aa572e2ac5",
+    "13314436361d7b97132b9adc7a33076b29639996adfb4abd6bd824806d225e6b",
+    "dbdb4f1f279adc44270f87b9ce5c0179ce16ba1c39710abbd5e441a5b83e340e"
+  ],
   "cycle": {
     "id": "2026-06-22",
     "words": [
@@ -80,8 +91,140 @@
         "translation": "区别，辨别"
       }
     ],
-    "previous_questions": [],
-    "last_question_fingerprints": []
+    "previous_questions": [
+      {
+        "word": "beneficial",
+        "question": "Which of the following is the best translation for \"Regular exercise is beneficial to your health\"?",
+        "options": [
+          "A. 定期锻炼对你的健康有益。",
+          "B. 定期锻炼有益于你的身体。",
+          "C. 正常的运动对健康很重要。",
+          "D. 经常运动会增强你的健康。"
+        ],
+        "answer": "A",
+        "explanation": "beneficial意为“有益的，有利的”，A选项的翻译最符合原文含义。"
+      },
+      {
+        "word": "approach",
+        "question": "Which sentence uses \"approach\" as a noun meaning \"method\"?",
+        "options": [
+          "A. We need to approach the problem from a different angle.",
+          "B. The train will approach the station in five minutes.",
+          "C. Her approach to teaching is very innovative.",
+          "D. As winter approaches, the days get shorter."
+        ],
+        "answer": "C",
+        "explanation": "在C选项中，approach表示“方法、途径”，是名词用法，其他选项中approach作动词使用。"
+      },
+      {
+        "word": "adjust",
+        "question": "请选择与“你需要调整你的计划以适应新的情况”最符合的英文表达。",
+        "options": [
+          "A. You need to adapt your plan to the new situation.",
+          "B. You need to adjust your plan to fit the new situation.",
+          "C. You must change your plan for the new situation.",
+          "D. Your plan must be modified for the new circumstances."
+        ],
+        "answer": "B",
+        "explanation": "adjust意为“调整”，fit意为“适应，符合”，此选项最准确地表达了原句的含义。"
+      },
+      {
+        "word": "characteristic",
+        "question": "A key ______ of this new smartphone is its long battery life.",
+        "options": [
+          "A. dimension",
+          "B. characteristic",
+          "C. condition",
+          "D. factor"
+        ],
+        "answer": "B",
+        "explanation": "characteristic意为“特征，特色”，指事物所具有的典型或独特的性质，与句意相符。"
+      },
+      {
+        "word": "abandon",
+        "question": "The captain refused to ______ his sinking ship, hoping to save as many passengers as possible.",
+        "options": [
+          "A. join",
+          "B. abandon",
+          "C. manage",
+          "D. repair"
+        ],
+        "answer": "B",
+        "explanation": "句意为船长拒绝“放弃”他正在下沉的船，abandon意为放弃。"
+      },
+      {
+        "word": "bear",
+        "question": "Which Chinese translation is correct for the underlined word in \"I can't bear the thought of losing you\"?",
+        "options": [
+          "A. 忍受",
+          "B. 承担",
+          "C. 携带",
+          "D. 产生"
+        ],
+        "answer": "A",
+        "explanation": "在此语境中，bear意为“忍受”，指无法承受或接受某种想法或感受。"
+      },
+      {
+        "word": "accommodate",
+        "question": "What does \"accommodate\" mean in the sentence: \"The hotel can accommodate up to 200 guests\"?",
+        "options": [
+          "A. 装饰",
+          "B. 容纳",
+          "C. 招待",
+          "D. 建设"
+        ],
+        "answer": "B",
+        "explanation": "accommodate在此句中意为“容纳”，指能够提供空间或住处给一定数量的人。"
+      },
+      {
+        "word": "distinguish",
+        "question": "It is sometimes hard to ______ between twins.",
+        "options": [
+          "A. separate",
+          "B. distinguish",
+          "C. compare",
+          "D. identify"
+        ],
+        "answer": "B",
+        "explanation": "distinguish意为“区别，辨别”，常用于辨别相似的人或事物之间的差异。"
+      },
+      {
+        "word": "furthermore",
+        "question": "Which word best completes the sentence? \"The new policy is designed to reduce waste. ______, it aims to promote recycling.\"",
+        "options": [
+          "A. However",
+          "B. Therefore",
+          "C. Furthermore",
+          "D. Otherwise"
+        ],
+        "answer": "C",
+        "explanation": "furthermore意为“此外，而且”，用于补充说明和增加信息，符合句子的逻辑关系。"
+      },
+      {
+        "word": "participate",
+        "question": "Many students decided to ______ in the volunteer program during the summer break.",
+        "options": [
+          "A. participate",
+          "B. participate of",
+          "C. participate in",
+          "D. participate with"
+        ],
+        "answer": "C",
+        "explanation": "participate in是固定搭配，意为“参与，参加”，表示加入某个活动或事件。"
+      }
+    ],
+    "last_question_fingerprints": [
+      "099818395d91fc2feff66c93ecf0ed80e8e6cd501000b5aa4a08121ee957be75",
+      "3d18c1267e0db37ea1ec5413ebacf238fefdb954578cbec33b6d4819ba3572d4",
+      "d295a3f46e8528533ae03bfd137f97f89744f3dc34bf427ed39d59da13bd845a",
+      "dfe5cc9145319905c5b556e2750ad3f3c0e652225a61a5975906bc1fe88bae1b",
+      "c75cc14f3ee95772ee3bec5c8fbb2d567a04b8ed3b0d35480c35e5962d9aa59c",
+      "32462c0f4de7192aebae77556c1812a8afaf95f7342fb41de420c7ccc85f03bf",
+      "d2b5b53846043beb9ecd9587f78bb56ed1f71afe41323597e5128ce1924f9f7f",
+      "5737013a20c06f6f40a0540c9cc10a1712d7692eb8381edd2c6215aa572e2ac5",
+      "13314436361d7b97132b9adc7a33076b29639996adfb4abd6bd824806d225e6b",
+      "dbdb4f1f279adc44270f87b9ce5c0179ce16ba1c39710abbd5e441a5b83e340e"
+    ]
   },
   "runs": {
     "2026-06-18": {
@@ -91,6 +234,10 @@
     "2026-06-22": {
       "kind": "story",
       "file": "daily/2026/06/2026-06-22-story.md"
+    },
+    "2026-06-23": {
+      "kind": "quiz-1",
+      "file": "daily/2026/06/2026-06-23-quiz-1.md"
     }
   }
 }
