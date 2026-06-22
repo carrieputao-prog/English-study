@@ -334,15 +334,25 @@ def dingtalk_url(webhook: str, secret: str) -> str:
     return f"{webhook}{separator}timestamp={timestamp}&sign={urllib.parse.quote_plus(signature)}"
 
 
+def dingtalk_payload(path: Path) -> dict[str, Any]:
+    content = path.read_text(encoding="utf-8")
+    # DingTalk custom robots may require configured keywords. Keep this stable
+    # prefix independent of the generated story or quiz wording.
+    keyword_prefix = "英语单词学习"
+    return {
+        "msgtype": "markdown",
+        "markdown": {
+            "title": f"{keyword_prefix}｜{path.stem}",
+            "text": f"## {keyword_prefix}\n\n{content}",
+        },
+    }
+
+
 def notify_dingtalk(path: Path) -> None:
     webhook = os.getenv("DINGTALK_WEBHOOK")
     if not webhook:
         raise RuntimeError("缺少 DINGTALK_WEBHOOK")
-    content = path.read_text(encoding="utf-8")
-    payload = {
-        "msgtype": "markdown",
-        "markdown": {"title": path.stem, "text": content},
-    }
+    payload = dingtalk_payload(path)
     request = urllib.request.Request(
         dingtalk_url(webhook, os.getenv("DINGTALK_SECRET", "")),
         data=json.dumps(payload, ensure_ascii=False).encode("utf-8"),

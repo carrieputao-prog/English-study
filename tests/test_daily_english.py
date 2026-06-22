@@ -59,6 +59,14 @@ class DailyEnglishTests(unittest.TestCase):
         state = {"version": 1, "runs": {}}
         self.assertIsNone(daily.generate_for_date(daily.date(2026, 6, 21), state))
 
+    def test_dingtalk_payload_always_contains_security_keywords(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "quiz.md"
+            path.write_text("# 10 词自测\n", encoding="utf-8")
+            payload = daily.dingtalk_payload(path)
+        self.assertIn("英语", payload["markdown"]["title"])
+        self.assertIn("单词", payload["markdown"]["text"])
+
 
 if __name__ == "__main__":
     unittest.main()
