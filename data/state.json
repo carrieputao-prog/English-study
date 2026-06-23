@@ -45,7 +45,17 @@
     "d2b5b53846043beb9ecd9587f78bb56ed1f71afe41323597e5128ce1924f9f7f",
     "5737013a20c06f6f40a0540c9cc10a1712d7692eb8381edd2c6215aa572e2ac5",
     "13314436361d7b97132b9adc7a33076b29639996adfb4abd6bd824806d225e6b",
-    "dbdb4f1f279adc44270f87b9ce5c0179ce16ba1c39710abbd5e441a5b83e340e"
+    "dbdb4f1f279adc44270f87b9ce5c0179ce16ba1c39710abbd5e441a5b83e340e",
+    "bd2226dc7ac39b31ce9ee9cc5993bfc67261065d8119c9db932f35f30d8eda76",
+    "c60427808d16f9d18aa9c52994c811730d4aae0d5503e32137046714486c4dbe",
+    "c391d9cf9aeecc577279cdd4057a21a768b008e7fd13c5e3af4366c74e4615ad",
+    "3f458b6e7cf6421c59109957e18beec81bdd4209891c91557778480c06129fee",
+    "b8e396f1d51f46593ab9ac941fb3438bdbf5b5b134d37eb5e0c9c22e7e45c401",
+    "7da11902a4fd9cea9331144e4ce871c2636a66db6c091c55bd307b63ac223815",
+    "5af4027ad169a3afd7a1d2718d5d0af1750f2a67472815b2952c56a52e531a49",
+    "e1b4d9384234fa5ddf9dab836349af7a9e06ed2936c86fe4faf12892130bca5e",
+    "8ed106eb929f51d57754d8a4937f1bd6e4a9d5e39322c791091a488be763f28c",
+    "db53a046fabf94979a41e00f880c23e9be5b4b8b622e656413904b557021d8cf"
   ],
   "cycle": {
     "id": "2026-06-22",
@@ -93,137 +103,137 @@
     ],
     "previous_questions": [
       {
-        "word": "beneficial",
-        "question": "Which of the following is the best translation for \"Regular exercise is beneficial to your health\"?",
-        "options": [
-          "A. 定期锻炼对你的健康有益。",
-          "B. 定期锻炼有益于你的身体。",
-          "C. 正常的运动对健康很重要。",
-          "D. 经常运动会增强你的健康。"
-        ],
-        "answer": "A",
-        "explanation": "beneficial意为“有益的，有利的”，A选项的翻译最符合原文含义。"
-      },
-      {
         "word": "approach",
-        "question": "Which sentence uses \"approach\" as a noun meaning \"method\"?",
+        "question": "What does 'approach' mean in the sentence: 'As winter approaches, the days get shorter'?",
         "options": [
-          "A. We need to approach the problem from a different angle.",
-          "B. The train will approach the station in five minutes.",
-          "C. Her approach to teaching is very innovative.",
-          "D. As winter approaches, the days get shorter."
+          "A. 远去",
+          "B. 变暖",
+          "C. 临近",
+          "D. 离开"
         ],
         "answer": "C",
-        "explanation": "在C选项中，approach表示“方法、途径”，是名词用法，其他选项中approach作动词使用。"
-      },
-      {
-        "word": "adjust",
-        "question": "请选择与“你需要调整你的计划以适应新的情况”最符合的英文表达。",
-        "options": [
-          "A. You need to adapt your plan to the new situation.",
-          "B. You need to adjust your plan to fit the new situation.",
-          "C. You must change your plan for the new situation.",
-          "D. Your plan must be modified for the new circumstances."
-        ],
-        "answer": "B",
-        "explanation": "adjust意为“调整”，fit意为“适应，符合”，此选项最准确地表达了原句的含义。"
-      },
-      {
-        "word": "characteristic",
-        "question": "A key ______ of this new smartphone is its long battery life.",
-        "options": [
-          "A. dimension",
-          "B. characteristic",
-          "C. condition",
-          "D. factor"
-        ],
-        "answer": "B",
-        "explanation": "characteristic意为“特征，特色”，指事物所具有的典型或独特的性质，与句意相符。"
-      },
-      {
-        "word": "abandon",
-        "question": "The captain refused to ______ his sinking ship, hoping to save as many passengers as possible.",
-        "options": [
-          "A. join",
-          "B. abandon",
-          "C. manage",
-          "D. repair"
-        ],
-        "answer": "B",
-        "explanation": "句意为船长拒绝“放弃”他正在下沉的船，abandon意为放弃。"
-      },
-      {
-        "word": "bear",
-        "question": "Which Chinese translation is correct for the underlined word in \"I can't bear the thought of losing you\"?",
-        "options": [
-          "A. 忍受",
-          "B. 承担",
-          "C. 携带",
-          "D. 产生"
-        ],
-        "answer": "A",
-        "explanation": "在此语境中，bear意为“忍受”，指无法承受或接受某种想法或感受。"
-      },
-      {
-        "word": "accommodate",
-        "question": "What does \"accommodate\" mean in the sentence: \"The hotel can accommodate up to 200 guests\"?",
-        "options": [
-          "A. 装饰",
-          "B. 容纳",
-          "C. 招待",
-          "D. 建设"
-        ],
-        "answer": "B",
-        "explanation": "accommodate在此句中意为“容纳”，指能够提供空间或住处给一定数量的人。"
-      },
-      {
-        "word": "distinguish",
-        "question": "It is sometimes hard to ______ between twins.",
-        "options": [
-          "A. separate",
-          "B. distinguish",
-          "C. compare",
-          "D. identify"
-        ],
-        "answer": "B",
-        "explanation": "distinguish意为“区别，辨别”，常用于辨别相似的人或事物之间的差异。"
+        "explanation": "在此句中，approach 指冬天“临近”的意思。"
       },
       {
         "word": "furthermore",
-        "question": "Which word best completes the sentence? \"The new policy is designed to reduce waste. ______, it aims to promote recycling.\"",
+        "question": "Which sentence correctly uses 'furthermore' to add additional information?",
         "options": [
-          "A. However",
-          "B. Therefore",
-          "C. Furthermore",
-          "D. Otherwise"
+          "A. He didn't like the food, furthermore, he left early.",
+          "B. The book was expensive; furthermore, it was poorly written.",
+          "C. She furthermore excels in sports.",
+          "D. Furthermore, what should we do next?"
         ],
-        "answer": "C",
-        "explanation": "furthermore意为“此外，而且”，用于补充说明和增加信息，符合句子的逻辑关系。"
+        "answer": "B",
+        "explanation": "Furthermore通常用于连接两个独立的句子或子句，表示“此外，而且”，补充说明信息。"
       },
       {
         "word": "participate",
-        "question": "Many students decided to ______ in the volunteer program during the summer break.",
+        "question": "What is the best Chinese translation for 'participate'?",
         "options": [
-          "A. participate",
-          "B. participate of",
-          "C. participate in",
-          "D. participate with"
+          "A. 放弃",
+          "B. 组织",
+          "C. 参与",
+          "D. 观察"
         ],
         "answer": "C",
-        "explanation": "participate in是固定搭配，意为“参与，参加”，表示加入某个活动或事件。"
+        "explanation": "participate的中文意思是“参与，参加”。"
+      },
+      {
+        "word": "accommodate",
+        "question": "The phrase '提供住宿' can be translated as which of the following?",
+        "options": [
+          "A. refuse shelter",
+          "B. deny stay",
+          "C. accommodate",
+          "D. manage hotel"
+        ],
+        "answer": "C",
+        "explanation": "accommodate的其中一个意思是“提供住宿”。"
+      },
+      {
+        "word": "distinguish",
+        "question": "What does 'distinguish' mean in the sentence: 'It's important to distinguish between fact and opinion'?",
+        "options": [
+          "A. 混合",
+          "B. 识别",
+          "C. 忽略",
+          "D. 接受"
+        ],
+        "answer": "B",
+        "explanation": "在此句中，distinguish between 意为“辨别、区分”事实和观点。"
+      },
+      {
+        "word": "characteristic",
+        "question": "Which English word is the best translation for '特征' in the context of a distinguishing quality?",
+        "options": [
+          "A. attribute",
+          "B. quality",
+          "C. characteristic",
+          "D. element"
+        ],
+        "answer": "C",
+        "explanation": "characteristic意为“特征，特色”，是“特征”最直接的翻译。"
+      },
+      {
+        "word": "bear",
+        "question": "Which word is a synonym for 'bear' meaning 'to carry or support'?",
+        "options": [
+          "A. drop",
+          "B. hold",
+          "C. forget",
+          "D. remove"
+        ],
+        "answer": "B",
+        "explanation": "在“忍受；承担；支撑”的语境下，hold可以作为bear的近义词，意为支撑、承受。"
+      },
+      {
+        "word": "beneficial",
+        "question": "Which English word means '有益的，有利的'?",
+        "options": [
+          "A. harmful",
+          "B. beneficial",
+          "C. useless",
+          "D. critical"
+        ],
+        "answer": "B",
+        "explanation": "beneficial的中文意思正是“有益的，有利的”。"
+      },
+      {
+        "word": "adjust",
+        "question": "In the sentence 'You need to adjust to the new environment', what does 'adjust' mean?",
+        "options": [
+          "A. 离开",
+          "B. 适应",
+          "C. 改变",
+          "D. 享受"
+        ],
+        "answer": "B",
+        "explanation": "在此语境中，adjust to the new environment 意为适应新环境。"
+      },
+      {
+        "word": "abandon",
+        "question": "What is the meaning of 'abandon' in the sentence: 'They had to abandon their car on the side of the road'?",
+        "options": [
+          "A. 修理",
+          "B. 遗弃",
+          "C. 驾驶",
+          "D. 销售"
+        ],
+        "answer": "B",
+        "explanation": "句子中abandon指因为故障等原因将车留在路边，意为遗弃。"
       }
     ],
     "last_question_fingerprints": [
-      "099818395d91fc2feff66c93ecf0ed80e8e6cd501000b5aa4a08121ee957be75",
-      "3d18c1267e0db37ea1ec5413ebacf238fefdb954578cbec33b6d4819ba3572d4",
-      "d295a3f46e8528533ae03bfd137f97f89744f3dc34bf427ed39d59da13bd845a",
-      "dfe5cc9145319905c5b556e2750ad3f3c0e652225a61a5975906bc1fe88bae1b",
-      "c75cc14f3ee95772ee3bec5c8fbb2d567a04b8ed3b0d35480c35e5962d9aa59c",
-      "32462c0f4de7192aebae77556c1812a8afaf95f7342fb41de420c7ccc85f03bf",
-      "d2b5b53846043beb9ecd9587f78bb56ed1f71afe41323597e5128ce1924f9f7f",
-      "5737013a20c06f6f40a0540c9cc10a1712d7692eb8381edd2c6215aa572e2ac5",
-      "13314436361d7b97132b9adc7a33076b29639996adfb4abd6bd824806d225e6b",
-      "dbdb4f1f279adc44270f87b9ce5c0179ce16ba1c39710abbd5e441a5b83e340e"
+      "bd2226dc7ac39b31ce9ee9cc5993bfc67261065d8119c9db932f35f30d8eda76",
+      "c60427808d16f9d18aa9c52994c811730d4aae0d5503e32137046714486c4dbe",
+      "c391d9cf9aeecc577279cdd4057a21a768b008e7fd13c5e3af4366c74e4615ad",
+      "3f458b6e7cf6421c59109957e18beec81bdd4209891c91557778480c06129fee",
+      "b8e396f1d51f46593ab9ac941fb3438bdbf5b5b134d37eb5e0c9c22e7e45c401",
+      "7da11902a4fd9cea9331144e4ce871c2636a66db6c091c55bd307b63ac223815",
+      "5af4027ad169a3afd7a1d2718d5d0af1750f2a67472815b2952c56a52e531a49",
+      "e1b4d9384234fa5ddf9dab836349af7a9e06ed2936c86fe4faf12892130bca5e",
+      "8ed106eb929f51d57754d8a4937f1bd6e4a9d5e39322c791091a488be763f28c",
+      "db53a046fabf94979a41e00f880c23e9be5b4b8b622e656413904b557021d8cf"
     ]
   },
   "runs": {
@@ -238,6 +248,10 @@
     "2026-06-23": {
       "kind": "quiz-1",
       "file": "daily/2026/06/2026-06-23-quiz-1.md"
+    },
+    "2026-06-24": {
+      "kind": "quiz-2",
+      "file": "daily/2026/06/2026-06-24-quiz-2.md"
     }
   }
 }
