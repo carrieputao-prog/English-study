@@ -21,19 +21,29 @@
     "bear",
     "characteristic",
     "accommodate",
-    "distinguish"
+    "distinguish",
+    "abstract",
+    "however",
+    "claim",
+    "essential",
+    "impact",
+    "otherwise",
+    "strategy",
+    "alternative",
+    "inevitable",
+    "proportion"
   ],
   "last_story_words": [
-    "abandon",
-    "beneficial",
-    "furthermore",
-    "participate",
-    "adjust",
-    "approach",
-    "bear",
-    "characteristic",
-    "accommodate",
-    "distinguish"
+    "abstract",
+    "however",
+    "claim",
+    "essential",
+    "impact",
+    "otherwise",
+    "strategy",
+    "alternative",
+    "inevitable",
+    "proportion"
   ],
   "used_question_fingerprints": [
     "099818395d91fc2feff66c93ecf0ed80e8e6cd501000b5aa4a08121ee957be75",
@@ -58,183 +68,51 @@
     "db53a046fabf94979a41e00f880c23e9be5b4b8b622e656413904b557021d8cf"
   ],
   "cycle": {
-    "id": "2026-06-22",
+    "id": "2026-06-25",
     "words": [
       {
-        "word": "abandon",
-        "translation": "放弃；遗弃"
+        "word": "abstract",
+        "translation": "抽象的"
       },
       {
-        "word": "beneficial",
-        "translation": "有益的，有利的"
+        "word": "however",
+        "translation": "然而"
       },
       {
-        "word": "furthermore",
-        "translation": "此外，而且"
+        "word": "claim",
+        "translation": "声称；索取"
       },
       {
-        "word": "participate",
-        "translation": "参与，参加"
+        "word": "essential",
+        "translation": "必要的，本质的"
       },
       {
-        "word": "adjust",
-        "translation": "调整；适应"
+        "word": "impact",
+        "translation": "影响，作用；撞击"
       },
       {
-        "word": "approach",
-        "translation": "方法，途径；靠近"
+        "word": "otherwise",
+        "translation": "否则，不然"
       },
       {
-        "word": "bear",
-        "translation": "忍受；承担；结（果实）"
+        "word": "strategy",
+        "translation": "战略，策略"
       },
       {
-        "word": "characteristic",
-        "translation": "特征，特色"
+        "word": "alternative",
+        "translation": "可供替代的 (n.) 替代品"
       },
       {
-        "word": "accommodate",
-        "translation": "容纳；提供住宿"
+        "word": "inevitable",
+        "translation": "不可避免的，必然的"
       },
       {
-        "word": "distinguish",
-        "translation": "区别，辨别"
+        "word": "proportion",
+        "translation": "比例，部分"
       }
     ],
-    "previous_questions": [
-      {
-        "word": "approach",
-        "question": "What does 'approach' mean in the sentence: 'As winter approaches, the days get shorter'?",
-        "options": [
-          "A. 远去",
-          "B. 变暖",
-          "C. 临近",
-          "D. 离开"
-        ],
-        "answer": "C",
-        "explanation": "在此句中，approach 指冬天“临近”的意思。"
-      },
-      {
-        "word": "furthermore",
-        "question": "Which sentence correctly uses 'furthermore' to add additional information?",
-        "options": [
-          "A. He didn't like the food, furthermore, he left early.",
-          "B. The book was expensive; furthermore, it was poorly written.",
-          "C. She furthermore excels in sports.",
-          "D. Furthermore, what should we do next?"
-        ],
-        "answer": "B",
-        "explanation": "Furthermore通常用于连接两个独立的句子或子句，表示“此外，而且”，补充说明信息。"
-      },
-      {
-        "word": "participate",
-        "question": "What is the best Chinese translation for 'participate'?",
-        "options": [
-          "A. 放弃",
-          "B. 组织",
-          "C. 参与",
-          "D. 观察"
-        ],
-        "answer": "C",
-        "explanation": "participate的中文意思是“参与，参加”。"
-      },
-      {
-        "word": "accommodate",
-        "question": "The phrase '提供住宿' can be translated as which of the following?",
-        "options": [
-          "A. refuse shelter",
-          "B. deny stay",
-          "C. accommodate",
-          "D. manage hotel"
-        ],
-        "answer": "C",
-        "explanation": "accommodate的其中一个意思是“提供住宿”。"
-      },
-      {
-        "word": "distinguish",
-        "question": "What does 'distinguish' mean in the sentence: 'It's important to distinguish between fact and opinion'?",
-        "options": [
-          "A. 混合",
-          "B. 识别",
-          "C. 忽略",
-          "D. 接受"
-        ],
-        "answer": "B",
-        "explanation": "在此句中，distinguish between 意为“辨别、区分”事实和观点。"
-      },
-      {
-        "word": "characteristic",
-        "question": "Which English word is the best translation for '特征' in the context of a distinguishing quality?",
-        "options": [
-          "A. attribute",
-          "B. quality",
-          "C. characteristic",
-          "D. element"
-        ],
-        "answer": "C",
-        "explanation": "characteristic意为“特征，特色”，是“特征”最直接的翻译。"
-      },
-      {
-        "word": "bear",
-        "question": "Which word is a synonym for 'bear' meaning 'to carry or support'?",
-        "options": [
-          "A. drop",
-          "B. hold",
-          "C. forget",
-          "D. remove"
-        ],
-        "answer": "B",
-        "explanation": "在“忍受；承担；支撑”的语境下，hold可以作为bear的近义词，意为支撑、承受。"
-      },
-      {
-        "word": "beneficial",
-        "question": "Which English word means '有益的，有利的'?",
-        "options": [
-          "A. harmful",
-          "B. beneficial",
-          "C. useless",
-          "D. critical"
-        ],
-        "answer": "B",
-        "explanation": "beneficial的中文意思正是“有益的，有利的”。"
-      },
-      {
-        "word": "adjust",
-        "question": "In the sentence 'You need to adjust to the new environment', what does 'adjust' mean?",
-        "options": [
-          "A. 离开",
-          "B. 适应",
-          "C. 改变",
-          "D. 享受"
-        ],
-        "answer": "B",
-        "explanation": "在此语境中，adjust to the new environment 意为适应新环境。"
-      },
-      {
-        "word": "abandon",
-        "question": "What is the meaning of 'abandon' in the sentence: 'They had to abandon their car on the side of the road'?",
-        "options": [
-          "A. 修理",
-          "B. 遗弃",
-          "C. 驾驶",
-          "D. 销售"
-        ],
-        "answer": "B",
-        "explanation": "句子中abandon指因为故障等原因将车留在路边，意为遗弃。"
-      }
-    ],
-    "last_question_fingerprints": [
-      "bd2226dc7ac39b31ce9ee9cc5993bfc67261065d8119c9db932f35f30d8eda76",
-      "c60427808d16f9d18aa9c52994c811730d4aae0d5503e32137046714486c4dbe",
-      "c391d9cf9aeecc577279cdd4057a21a768b008e7fd13c5e3af4366c74e4615ad",
-      "3f458b6e7cf6421c59109957e18beec81bdd4209891c91557778480c06129fee",
-      "b8e396f1d51f46593ab9ac941fb3438bdbf5b5b134d37eb5e0c9c22e7e45c401",
-      "7da11902a4fd9cea9331144e4ce871c2636a66db6c091c55bd307b63ac223815",
-      "5af4027ad169a3afd7a1d2718d5d0af1750f2a67472815b2952c56a52e531a49",
-      "e1b4d9384234fa5ddf9dab836349af7a9e06ed2936c86fe4faf12892130bca5e",
-      "8ed106eb929f51d57754d8a4937f1bd6e4a9d5e39322c791091a488be763f28c",
-      "db53a046fabf94979a41e00f880c23e9be5b4b8b622e656413904b557021d8cf"
-    ]
+    "previous_questions": [],
+    "last_question_fingerprints": []
   },
   "runs": {
     "2026-06-18": {
@@ -252,6 +130,10 @@
     "2026-06-24": {
       "kind": "quiz-2",
       "file": "daily/2026/06/2026-06-24-quiz-2.md"
+    },
+    "2026-06-25": {
+      "kind": "story",
+      "file": "daily/2026/06/2026-06-25-story.md"
     }
   }
 }
