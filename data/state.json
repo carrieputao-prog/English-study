@@ -65,7 +65,17 @@
     "5af4027ad169a3afd7a1d2718d5d0af1750f2a67472815b2952c56a52e531a49",
     "e1b4d9384234fa5ddf9dab836349af7a9e06ed2936c86fe4faf12892130bca5e",
     "8ed106eb929f51d57754d8a4937f1bd6e4a9d5e39322c791091a488be763f28c",
-    "db53a046fabf94979a41e00f880c23e9be5b4b8b622e656413904b557021d8cf"
+    "db53a046fabf94979a41e00f880c23e9be5b4b8b622e656413904b557021d8cf",
+    "b3206f61b23a5d1edeaf14de3b6ff2b102e2e593422fec9fa06092f918b76e47",
+    "b46bb6a75adfe4b34b704352f577e740521fa46d28307f3d7c442ae72d0bf0f4",
+    "2f79e91c0cf4982a00a4fb7c6fb2ab50e66a0da2d1e438f22910f63b1539fbf7",
+    "a96f5906c5c372cc7cecd7658bd8b87a858e712c2adfff6f0aed2313c9f14915",
+    "11066f025b541618e09be0134cc9d1407257e13334bef8097ffc51b55cc3b14c",
+    "3b21c20579908a6ab38436ccb169519ac6a09f8012b6ae619a563696c5d3786c",
+    "634cc1dca91df8c8c732a61f42840897aa005eb4afa7df8cb16bbd9f580a4752",
+    "ae8c72d0539be114945e82b57a36ae2347b0dad55c1acd688f2365e1e0a4f202",
+    "bba1141dbfc35d5b38d36323c13371619c4005aae0b7f2a4b50aec7f6f75380a",
+    "ef1bbc6810ae762190a302d6ab69e0bc435344dd8d9edf11594562699cb01b3c"
   ],
   "cycle": {
     "id": "2026-06-25",
@@ -111,8 +121,140 @@
         "translation": "比例，部分"
       }
     ],
-    "previous_questions": [],
-    "last_question_fingerprints": []
+    "previous_questions": [
+      {
+        "word": "abstract",
+        "question": "Which of the following best translates the word \"abstract\"?",
+        "options": [
+          "A. 具体的",
+          "B. 抽象的",
+          "C. 概括的",
+          "D. 详细的"
+        ],
+        "answer": "B",
+        "explanation": "\"abstract\" 的意思是抽象的，与 \"具体的\" 相对。"
+      },
+      {
+        "word": "essential",
+        "question": "A healthy diet and regular exercise are _______ for a long life.",
+        "options": [
+          "A. optional",
+          "B. vital",
+          "C. trivial",
+          "D. secondary"
+        ],
+        "answer": "B",
+        "explanation": "\"essential\" 意为必要的、不可或缺的，与 \"vital\" 意思相近。"
+      },
+      {
+        "word": "alternative",
+        "question": "If you don't like coffee, there are plenty of ______ like tea or juice.",
+        "options": [
+          "A. choices",
+          "B. alternatives",
+          "C. selections",
+          "D. options"
+        ],
+        "answer": "B",
+        "explanation": "\"alternatives\" 指可供选择的替代品。"
+      },
+      {
+        "word": "proportion",
+        "question": "The ______ of women in the workforce has increased significantly.",
+        "options": [
+          "A. total",
+          "B. amount",
+          "C. proportion",
+          "D. number"
+        ],
+        "answer": "C",
+        "explanation": "\"proportion\" 意为部分、比例，用于表示在总量中所占的份额。"
+      },
+      {
+        "word": "however",
+        "question": "The weather was terrible; _______, we still decided to go for a hike.",
+        "options": [
+          "A. therefore",
+          "B. moreover",
+          "C. however",
+          "D. consequently"
+        ],
+        "answer": "C",
+        "explanation": "\"however\" 表示转折关系，与前一句形成对比。"
+      },
+      {
+        "word": "impact",
+        "question": "Which sentence uses \"impact\" correctly as a noun meaning collision or effect?",
+        "options": [
+          "A. The meteor had a significant impact on the Earth's surface.",
+          "B. His new book impact greatly on its readers.",
+          "C. She likes to impact the ball with a strong swing.",
+          "D. We need to impact our thoughts to the manager."
+        ],
+        "answer": "A",
+        "explanation": "选项A中 \"impact\" 作为名词表示撞击或产生的影响，用法正确。选项B、C、D中 \"impact\" 作为动词用法不正确或搭配不当。"
+      },
+      {
+        "word": "inevitable",
+        "question": "Which of the following words is a synonym for \"inevitable\"?",
+        "options": [
+          "A. avoidable",
+          "B. unlikely",
+          "C. certain",
+          "D. flexible"
+        ],
+        "answer": "C",
+        "explanation": "\"inevitable\" 意为不可避免的，必然的，与 \"certain\"（确定的、必然的）意思相近。"
+      },
+      {
+        "word": "claim",
+        "question": "The company had to ______ responsibility for the data breach.",
+        "options": [
+          "A. proclaim",
+          "B. explain",
+          "C. claim",
+          "D. exclaim"
+        ],
+        "answer": "C",
+        "explanation": "\"claim responsibility\" 意为声称承担责任。"
+      },
+      {
+        "word": "otherwise",
+        "question": "You should study hard; _______, you might fail the exam.",
+        "options": [
+          "A. although",
+          "B. therefore",
+          "C. otherwise",
+          "D. nonetheless"
+        ],
+        "answer": "C",
+        "explanation": "\"otherwise\" 意为否则、不然，表示如果不做某事会产生的结果。"
+      },
+      {
+        "word": "strategy",
+        "question": "Which option best translates \"公司需要一个新的市场策略\"?",
+        "options": [
+          "A. The company needs a new market tactics.",
+          "B. The company needs a new market method.",
+          "C. The company needs a new market strategy.",
+          "D. The company needs a new market plan."
+        ],
+        "answer": "C",
+        "explanation": "\"策略\" 在此语境中最佳的翻译是 \"strategy\"。"
+      }
+    ],
+    "last_question_fingerprints": [
+      "b3206f61b23a5d1edeaf14de3b6ff2b102e2e593422fec9fa06092f918b76e47",
+      "b46bb6a75adfe4b34b704352f577e740521fa46d28307f3d7c442ae72d0bf0f4",
+      "2f79e91c0cf4982a00a4fb7c6fb2ab50e66a0da2d1e438f22910f63b1539fbf7",
+      "a96f5906c5c372cc7cecd7658bd8b87a858e712c2adfff6f0aed2313c9f14915",
+      "11066f025b541618e09be0134cc9d1407257e13334bef8097ffc51b55cc3b14c",
+      "3b21c20579908a6ab38436ccb169519ac6a09f8012b6ae619a563696c5d3786c",
+      "634cc1dca91df8c8c732a61f42840897aa005eb4afa7df8cb16bbd9f580a4752",
+      "ae8c72d0539be114945e82b57a36ae2347b0dad55c1acd688f2365e1e0a4f202",
+      "bba1141dbfc35d5b38d36323c13371619c4005aae0b7f2a4b50aec7f6f75380a",
+      "ef1bbc6810ae762190a302d6ab69e0bc435344dd8d9edf11594562699cb01b3c"
+    ]
   },
   "runs": {
     "2026-06-18": {
@@ -134,6 +276,10 @@
     "2026-06-25": {
       "kind": "story",
       "file": "daily/2026/06/2026-06-25-story.md"
+    },
+    "2026-06-26": {
+      "kind": "quiz-1",
+      "file": "daily/2026/06/2026-06-26-quiz-1.md"
     }
   }
 }
