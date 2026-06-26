@@ -75,7 +75,17 @@
     "634cc1dca91df8c8c732a61f42840897aa005eb4afa7df8cb16bbd9f580a4752",
     "ae8c72d0539be114945e82b57a36ae2347b0dad55c1acd688f2365e1e0a4f202",
     "bba1141dbfc35d5b38d36323c13371619c4005aae0b7f2a4b50aec7f6f75380a",
-    "ef1bbc6810ae762190a302d6ab69e0bc435344dd8d9edf11594562699cb01b3c"
+    "ef1bbc6810ae762190a302d6ab69e0bc435344dd8d9edf11594562699cb01b3c",
+    "e3ced12cd3e053a4852ae9b6d513fda2a31ed412f77d180cedd13c16c82541ea",
+    "638540f16dde0ce727add98c856227fffacbf814c6d9f37b37f38c1d1d0f59cb",
+    "e776086a0615640086e552757eb832f4a7f242cadabb3b19add225e8c6f33e1a",
+    "d4609a710639d00e11c44c00ad7aebe97332e8724cd65965a095224e1d2a5047",
+    "d1724ccfa22c27e61b11cd200d088772b672b05f812753ed0c3a32dc018c39cb",
+    "5dd6d3fd4207915e4ff74e4227d7d198f4a4e85df718151f3c7c2c4712dbf602",
+    "08520a4d2f8e020df3ad9b0f627b6fd47b1d41da9df9d99376e66e9fccc770d5",
+    "d6808bc2d965d3a27954b36d0967b6512b230592ada9ebc2034bac80128d6207",
+    "6a2b11b851804025a0b06435c6107e6dada61bea4aaacfd13b4d14fea5d58387",
+    "1458facd453eae059c57f658387d7ce632287075e621c25b33cebe5ab68dc673"
   ],
   "cycle": {
     "id": "2026-06-25",
@@ -124,136 +134,136 @@
     "previous_questions": [
       {
         "word": "abstract",
-        "question": "Which of the following best translates the word \"abstract\"?",
+        "question": "Which of the following best describes something \"abstract\"?",
         "options": [
-          "A. 具体的",
-          "B. 抽象的",
-          "C. 概括的",
-          "D. 详细的"
+          "A) Easy to understand",
+          "B) Existing only in thought or as an idea",
+          "C) Having a physical form",
+          "D) Related to concrete objects"
         ],
         "answer": "B",
-        "explanation": "\"abstract\" 的意思是抽象的，与 \"具体的\" 相对。"
-      },
-      {
-        "word": "essential",
-        "question": "A healthy diet and regular exercise are _______ for a long life.",
-        "options": [
-          "A. optional",
-          "B. vital",
-          "C. trivial",
-          "D. secondary"
-        ],
-        "answer": "B",
-        "explanation": "\"essential\" 意为必要的、不可或缺的，与 \"vital\" 意思相近。"
-      },
-      {
-        "word": "alternative",
-        "question": "If you don't like coffee, there are plenty of ______ like tea or juice.",
-        "options": [
-          "A. choices",
-          "B. alternatives",
-          "C. selections",
-          "D. options"
-        ],
-        "answer": "B",
-        "explanation": "\"alternatives\" 指可供选择的替代品。"
-      },
-      {
-        "word": "proportion",
-        "question": "The ______ of women in the workforce has increased significantly.",
-        "options": [
-          "A. total",
-          "B. amount",
-          "C. proportion",
-          "D. number"
-        ],
-        "answer": "C",
-        "explanation": "\"proportion\" 意为部分、比例，用于表示在总量中所占的份额。"
+        "explanation": "\"Abstract\" 指的是抽象的，只存在于思想或概念中，没有具体的物理形态。"
       },
       {
         "word": "however",
-        "question": "The weather was terrible; _______, we still decided to go for a hike.",
+        "question": "Choose the best Chinese translation for: \"The project was challenging; however, we managed to complete it on time.\"",
         "options": [
-          "A. therefore",
-          "B. moreover",
-          "C. however",
-          "D. consequently"
+          "A) 这个项目很有挑战性，我们设法按时完成了。",
+          "B) 这个项目很有挑战性；然而，我们设法按时完成了。",
+          "C) 这个项目很有挑战性，所以我们设法按时完成了。",
+          "D) 这个项目很有挑战性，但是我们没有按时完成。"
         ],
-        "answer": "C",
-        "explanation": "\"however\" 表示转折关系，与前一句形成对比。"
-      },
-      {
-        "word": "impact",
-        "question": "Which sentence uses \"impact\" correctly as a noun meaning collision or effect?",
-        "options": [
-          "A. The meteor had a significant impact on the Earth's surface.",
-          "B. His new book impact greatly on its readers.",
-          "C. She likes to impact the ball with a strong swing.",
-          "D. We need to impact our thoughts to the manager."
-        ],
-        "answer": "A",
-        "explanation": "选项A中 \"impact\" 作为名词表示撞击或产生的影响，用法正确。选项B、C、D中 \"impact\" 作为动词用法不正确或搭配不当。"
-      },
-      {
-        "word": "inevitable",
-        "question": "Which of the following words is a synonym for \"inevitable\"?",
-        "options": [
-          "A. avoidable",
-          "B. unlikely",
-          "C. certain",
-          "D. flexible"
-        ],
-        "answer": "C",
-        "explanation": "\"inevitable\" 意为不可避免的，必然的，与 \"certain\"（确定的、必然的）意思相近。"
+        "answer": "B",
+        "explanation": "\"however\" 意为“然而，但是”，用于表示转折关系。"
       },
       {
         "word": "claim",
-        "question": "The company had to ______ responsibility for the data breach.",
+        "question": "Which option best translates the underlined part in \"She made a strong claim that she was innocent\"?",
         "options": [
-          "A. proclaim",
-          "B. explain",
-          "C. claim",
-          "D. exclaim"
+          "A) 要求",
+          "B) 声称",
+          "C) 争论",
+          "D) 投诉"
         ],
-        "answer": "C",
-        "explanation": "\"claim responsibility\" 意为声称承担责任。"
+        "answer": "B",
+        "explanation": "在此语境中，\"claim\" 作为名词意为“声称，主张”。"
       },
       {
         "word": "otherwise",
-        "question": "You should study hard; _______, you might fail the exam.",
+        "question": "Which sentence uses \"otherwise\" correctly?",
         "options": [
-          "A. although",
-          "B. therefore",
-          "C. otherwise",
-          "D. nonetheless"
+          "A) He is a diligent student, otherwise he always finishes his homework on time.",
+          "B) We must leave now, otherwise we will miss the train.",
+          "C) She bought a new dress, otherwise she didn't like the color.",
+          "D) They had a good time, otherwise the food was delicious."
         ],
-        "answer": "C",
-        "explanation": "\"otherwise\" 意为否则、不然，表示如果不做某事会产生的结果。"
+        "answer": "B",
+        "explanation": "\"otherwise\" 意为“否则，不然”，用于表示如果不做某事会产生的后果。"
       },
       {
         "word": "strategy",
-        "question": "Which option best translates \"公司需要一个新的市场策略\"?",
+        "question": "What is a \"strategy\"?",
         "options": [
-          "A. The company needs a new market tactics.",
-          "B. The company needs a new market method.",
-          "C. The company needs a new market strategy.",
-          "D. The company needs a new market plan."
+          "A) A sudden decision without prior planning",
+          "B) A detailed plan for achieving a goal",
+          "C) A random approach to a problem",
+          "D) A method used only in military operations"
+        ],
+        "answer": "B",
+        "explanation": "\"strategy\" 意为“战略，策略”，是指为实现特定目标而制定的详细计划。"
+      },
+      {
+        "word": "essential",
+        "question": "Which word is NOT a synonym of \"essential\"?",
+        "options": [
+          "A) Crucial",
+          "B) Necessary",
+          "C) Trivial",
+          "D) Indispensable"
         ],
         "answer": "C",
-        "explanation": "\"策略\" 在此语境中最佳的翻译是 \"strategy\"。"
+        "explanation": "\"Essential\" 意为“必要的，本质的”，而 \"trivial\" 意为“不重要的，琐碎的”，两者是反义词。"
+      },
+      {
+        "word": "alternative",
+        "question": "How would you translate \"可供选择的方案\" into English?",
+        "options": [
+          "A) primary choice",
+          "B) difficult option",
+          "C) alternative plan",
+          "D) only solution"
+        ],
+        "answer": "C",
+        "explanation": "\"alternative plan\" 意为“可供选择的方案”，符合句意。"
+      },
+      {
+        "word": "impact",
+        "question": "The new policies are expected to _______ the economy positively.",
+        "options": [
+          "A) effect",
+          "B) cause",
+          "C) influence",
+          "D) impact"
+        ],
+        "answer": "D",
+        "explanation": "\"impact\" 在这里作为动词，意为“影响，对...产生作用”，与句意相符。"
+      },
+      {
+        "word": "inevitable",
+        "question": "Given the circumstances, failure seemed _______.",
+        "options": [
+          "A) avoidable",
+          "B) possible",
+          "C) preventable",
+          "D) inevitable"
+        ],
+        "answer": "D",
+        "explanation": "\"inevitable\" 意为“不可避免的，必然的”，在此语境中形容失败是必然会发生的。"
+      },
+      {
+        "word": "proportion",
+        "question": "In a recent survey, a large _______ of respondents expressed satisfaction.",
+        "options": [
+          "A) number",
+          "B) proportion",
+          "C) amount",
+          "D) volume"
+        ],
+        "answer": "B",
+        "explanation": "\"proportion\" 意为“比例，部分”，常用于表示整体中的某一部分，与句意相符。"
       }
     ],
     "last_question_fingerprints": [
-      "b3206f61b23a5d1edeaf14de3b6ff2b102e2e593422fec9fa06092f918b76e47",
-      "b46bb6a75adfe4b34b704352f577e740521fa46d28307f3d7c442ae72d0bf0f4",
-      "2f79e91c0cf4982a00a4fb7c6fb2ab50e66a0da2d1e438f22910f63b1539fbf7",
-      "a96f5906c5c372cc7cecd7658bd8b87a858e712c2adfff6f0aed2313c9f14915",
-      "11066f025b541618e09be0134cc9d1407257e13334bef8097ffc51b55cc3b14c",
-      "3b21c20579908a6ab38436ccb169519ac6a09f8012b6ae619a563696c5d3786c",
-      "634cc1dca91df8c8c732a61f42840897aa005eb4afa7df8cb16bbd9f580a4752",
-      "ae8c72d0539be114945e82b57a36ae2347b0dad55c1acd688f2365e1e0a4f202",
-      "bba1141dbfc35d5b38d36323c13371619c4005aae0b7f2a4b50aec7f6f75380a",
-      "ef1bbc6810ae762190a302d6ab69e0bc435344dd8d9edf11594562699cb01b3c"
+      "e3ced12cd3e053a4852ae9b6d513fda2a31ed412f77d180cedd13c16c82541ea",
+      "638540f16dde0ce727add98c856227fffacbf814c6d9f37b37f38c1d1d0f59cb",
+      "e776086a0615640086e552757eb832f4a7f242cadabb3b19add225e8c6f33e1a",
+      "d4609a710639d00e11c44c00ad7aebe97332e8724cd65965a095224e1d2a5047",
+      "d1724ccfa22c27e61b11cd200d088772b672b05f812753ed0c3a32dc018c39cb",
+      "5dd6d3fd4207915e4ff74e4227d7d198f4a4e85df718151f3c7c2c4712dbf602",
+      "08520a4d2f8e020df3ad9b0f627b6fd47b1d41da9df9d99376e66e9fccc770d5",
+      "d6808bc2d965d3a27954b36d0967b6512b230592ada9ebc2034bac80128d6207",
+      "6a2b11b851804025a0b06435c6107e6dada61bea4aaacfd13b4d14fea5d58387",
+      "1458facd453eae059c57f658387d7ce632287075e621c25b33cebe5ab68dc673"
     ]
   },
   "runs": {
@@ -280,6 +290,10 @@
     "2026-06-26": {
       "kind": "quiz-1",
       "file": "daily/2026/06/2026-06-26-quiz-1.md"
+    },
+    "2026-06-27": {
+      "kind": "quiz-2",
+      "file": "daily/2026/06/2026-06-27-quiz-2.md"
     }
   }
 }
