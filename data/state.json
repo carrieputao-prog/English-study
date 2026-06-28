@@ -31,19 +31,29 @@
     "strategy",
     "alternative",
     "inevitable",
-    "proportion"
+    "proportion",
+    "evidence",
+    "allocate",
+    "potential",
+    "maintain",
+    "attribute",
+    "adapt",
+    "considerable",
+    "consequence",
+    "moreover",
+    "optional"
   ],
   "last_story_words": [
-    "abstract",
-    "however",
-    "claim",
-    "essential",
-    "impact",
-    "otherwise",
-    "strategy",
-    "alternative",
-    "inevitable",
-    "proportion"
+    "evidence",
+    "allocate",
+    "potential",
+    "maintain",
+    "attribute",
+    "adapt",
+    "considerable",
+    "consequence",
+    "moreover",
+    "optional"
   ],
   "used_question_fingerprints": [
     "099818395d91fc2feff66c93ecf0ed80e8e6cd501000b5aa4a08121ee957be75",
@@ -88,183 +98,51 @@
     "1458facd453eae059c57f658387d7ce632287075e621c25b33cebe5ab68dc673"
   ],
   "cycle": {
-    "id": "2026-06-25",
+    "id": "2026-06-29",
     "words": [
       {
-        "word": "abstract",
-        "translation": "抽象的"
+        "word": "evidence",
+        "translation": "证据，证明"
       },
       {
-        "word": "however",
-        "translation": "然而"
+        "word": "allocate",
+        "translation": "分配，分派"
       },
       {
-        "word": "claim",
-        "translation": "声称；索取"
+        "word": "potential",
+        "translation": "潜力 (a.) 潜在的"
       },
       {
-        "word": "essential",
-        "translation": "必要的，本质的"
+        "word": "maintain",
+        "translation": "维持；维修；主张"
       },
       {
-        "word": "impact",
-        "translation": "影响，作用；撞击"
+        "word": "attribute",
+        "translation": "把...归因于 (n.) 属性，特征"
       },
       {
-        "word": "otherwise",
-        "translation": "否则，不然"
+        "word": "adapt",
+        "translation": "适应；改编"
       },
       {
-        "word": "strategy",
-        "translation": "战略，策略"
+        "word": "considerable",
+        "translation": "相当大的/多的"
       },
       {
-        "word": "alternative",
-        "translation": "可供替代的 (n.) 替代品"
+        "word": "consequence",
+        "translation": "结果，后果"
       },
       {
-        "word": "inevitable",
-        "translation": "不可避免的，必然的"
+        "word": "moreover",
+        "translation": "此外，而且"
       },
       {
-        "word": "proportion",
-        "translation": "比例，部分"
+        "word": "optional",
+        "translation": "可选择的，非强制的"
       }
     ],
-    "previous_questions": [
-      {
-        "word": "abstract",
-        "question": "Which of the following best describes something \"abstract\"?",
-        "options": [
-          "A) Easy to understand",
-          "B) Existing only in thought or as an idea",
-          "C) Having a physical form",
-          "D) Related to concrete objects"
-        ],
-        "answer": "B",
-        "explanation": "\"Abstract\" 指的是抽象的，只存在于思想或概念中，没有具体的物理形态。"
-      },
-      {
-        "word": "however",
-        "question": "Choose the best Chinese translation for: \"The project was challenging; however, we managed to complete it on time.\"",
-        "options": [
-          "A) 这个项目很有挑战性，我们设法按时完成了。",
-          "B) 这个项目很有挑战性；然而，我们设法按时完成了。",
-          "C) 这个项目很有挑战性，所以我们设法按时完成了。",
-          "D) 这个项目很有挑战性，但是我们没有按时完成。"
-        ],
-        "answer": "B",
-        "explanation": "\"however\" 意为“然而，但是”，用于表示转折关系。"
-      },
-      {
-        "word": "claim",
-        "question": "Which option best translates the underlined part in \"She made a strong claim that she was innocent\"?",
-        "options": [
-          "A) 要求",
-          "B) 声称",
-          "C) 争论",
-          "D) 投诉"
-        ],
-        "answer": "B",
-        "explanation": "在此语境中，\"claim\" 作为名词意为“声称，主张”。"
-      },
-      {
-        "word": "otherwise",
-        "question": "Which sentence uses \"otherwise\" correctly?",
-        "options": [
-          "A) He is a diligent student, otherwise he always finishes his homework on time.",
-          "B) We must leave now, otherwise we will miss the train.",
-          "C) She bought a new dress, otherwise she didn't like the color.",
-          "D) They had a good time, otherwise the food was delicious."
-        ],
-        "answer": "B",
-        "explanation": "\"otherwise\" 意为“否则，不然”，用于表示如果不做某事会产生的后果。"
-      },
-      {
-        "word": "strategy",
-        "question": "What is a \"strategy\"?",
-        "options": [
-          "A) A sudden decision without prior planning",
-          "B) A detailed plan for achieving a goal",
-          "C) A random approach to a problem",
-          "D) A method used only in military operations"
-        ],
-        "answer": "B",
-        "explanation": "\"strategy\" 意为“战略，策略”，是指为实现特定目标而制定的详细计划。"
-      },
-      {
-        "word": "essential",
-        "question": "Which word is NOT a synonym of \"essential\"?",
-        "options": [
-          "A) Crucial",
-          "B) Necessary",
-          "C) Trivial",
-          "D) Indispensable"
-        ],
-        "answer": "C",
-        "explanation": "\"Essential\" 意为“必要的，本质的”，而 \"trivial\" 意为“不重要的，琐碎的”，两者是反义词。"
-      },
-      {
-        "word": "alternative",
-        "question": "How would you translate \"可供选择的方案\" into English?",
-        "options": [
-          "A) primary choice",
-          "B) difficult option",
-          "C) alternative plan",
-          "D) only solution"
-        ],
-        "answer": "C",
-        "explanation": "\"alternative plan\" 意为“可供选择的方案”，符合句意。"
-      },
-      {
-        "word": "impact",
-        "question": "The new policies are expected to _______ the economy positively.",
-        "options": [
-          "A) effect",
-          "B) cause",
-          "C) influence",
-          "D) impact"
-        ],
-        "answer": "D",
-        "explanation": "\"impact\" 在这里作为动词，意为“影响，对...产生作用”，与句意相符。"
-      },
-      {
-        "word": "inevitable",
-        "question": "Given the circumstances, failure seemed _______.",
-        "options": [
-          "A) avoidable",
-          "B) possible",
-          "C) preventable",
-          "D) inevitable"
-        ],
-        "answer": "D",
-        "explanation": "\"inevitable\" 意为“不可避免的，必然的”，在此语境中形容失败是必然会发生的。"
-      },
-      {
-        "word": "proportion",
-        "question": "In a recent survey, a large _______ of respondents expressed satisfaction.",
-        "options": [
-          "A) number",
-          "B) proportion",
-          "C) amount",
-          "D) volume"
-        ],
-        "answer": "B",
-        "explanation": "\"proportion\" 意为“比例，部分”，常用于表示整体中的某一部分，与句意相符。"
-      }
-    ],
-    "last_question_fingerprints": [
-      "e3ced12cd3e053a4852ae9b6d513fda2a31ed412f77d180cedd13c16c82541ea",
-      "638540f16dde0ce727add98c856227fffacbf814c6d9f37b37f38c1d1d0f59cb",
-      "e776086a0615640086e552757eb832f4a7f242cadabb3b19add225e8c6f33e1a",
-      "d4609a710639d00e11c44c00ad7aebe97332e8724cd65965a095224e1d2a5047",
-      "d1724ccfa22c27e61b11cd200d088772b672b05f812753ed0c3a32dc018c39cb",
-      "5dd6d3fd4207915e4ff74e4227d7d198f4a4e85df718151f3c7c2c4712dbf602",
-      "08520a4d2f8e020df3ad9b0f627b6fd47b1d41da9df9d99376e66e9fccc770d5",
-      "d6808bc2d965d3a27954b36d0967b6512b230592ada9ebc2034bac80128d6207",
-      "6a2b11b851804025a0b06435c6107e6dada61bea4aaacfd13b4d14fea5d58387",
-      "1458facd453eae059c57f658387d7ce632287075e621c25b33cebe5ab68dc673"
-    ]
+    "previous_questions": [],
+    "last_question_fingerprints": []
   },
   "runs": {
     "2026-06-18": {
@@ -294,6 +172,10 @@
     "2026-06-27": {
       "kind": "quiz-2",
       "file": "daily/2026/06/2026-06-27-quiz-2.md"
+    },
+    "2026-06-29": {
+      "kind": "story",
+      "file": "daily/2026/06/2026-06-29-story.md"
     }
   }
 }
