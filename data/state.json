@@ -95,7 +95,17 @@
     "08520a4d2f8e020df3ad9b0f627b6fd47b1d41da9df9d99376e66e9fccc770d5",
     "d6808bc2d965d3a27954b36d0967b6512b230592ada9ebc2034bac80128d6207",
     "6a2b11b851804025a0b06435c6107e6dada61bea4aaacfd13b4d14fea5d58387",
-    "1458facd453eae059c57f658387d7ce632287075e621c25b33cebe5ab68dc673"
+    "1458facd453eae059c57f658387d7ce632287075e621c25b33cebe5ab68dc673",
+    "8adf0dcc47d664fd32670527450c6418da232e9e7d52ab971e05d3cb1c13bed9",
+    "56ee9f66d49b8d86f0f8399eb54b78335e857bdc87446dbe12f4a91345d1a56a",
+    "bf515bc619ffbe38dfec46e1dcb97a4ddaf473bfc547c31e5b7003889e5138ff",
+    "228fea80db5226a6ee00fe9631937ea9a89ef528d270b073b2653bfc37a0798b",
+    "8f40c608d76624cdef0436e4d1bd9f589be7b2600a8186615d1bbec9c2cadfbb",
+    "d50b1c92cc6d87ffeba73c803c67effb9dd3982bb79edfc60bd301f19cd4f81c",
+    "14ec3ae247480b5583902e55e5c6fdc3bb266c2833e4f288e8686f60d13d34ee",
+    "d1d855c34818290d2137c7b1762684aeb191602432202d7c4ebe5e03bf8646ef",
+    "2314f9bd040bb0df27c0d32e34c7837174121223e73df45c056aab119b648f6b",
+    "46839dc1d42f9a036601add8604c9e35d58f949e14471260c9a3dae22afdab43"
   ],
   "cycle": {
     "id": "2026-06-29",
@@ -141,8 +151,140 @@
         "translation": "可选择的，非强制的"
       }
     ],
-    "previous_questions": [],
-    "last_question_fingerprints": []
+    "previous_questions": [
+      {
+        "word": "potential",
+        "question": "She has the _______ to become a great leader, but needs more experience to realize it.",
+        "options": [
+          "A. probable",
+          "B. certain",
+          "C. potential",
+          "D. actual"
+        ],
+        "answer": "C",
+        "explanation": "这里需要一个形容词来修饰成为伟大领导者的可能性，'potential'（潜在的）符合语境。"
+      },
+      {
+        "word": "consequence",
+        "question": "Failing to prepare adequately for the exam will have serious _______ for your final grades.",
+        "options": [
+          "A. intentions",
+          "B. outcomes",
+          "C. benefits",
+          "D. causes"
+        ],
+        "answer": "B",
+        "explanation": "'consequence' 意为“结果，后果”，此处'outcomes'（结果）是其近义词，符合语境。"
+      },
+      {
+        "word": "moreover",
+        "question": "The new policy is highly controversial among the public. _______, it may not be effective in the long run.",
+        "options": [
+          "A. However",
+          "B. Therefore",
+          "C. Moreover",
+          "D. Although"
+        ],
+        "answer": "C",
+        "explanation": "'moreover' 意为“此外，而且”，用于添加更多信息或论点，符合句子的递进关系。"
+      },
+      {
+        "word": "maintain",
+        "question": "Which of the following sentences correctly uses the word \"maintain\"?",
+        "options": [
+          "A. He decided to maintain his old car despite its age, keeping it in good working order.",
+          "B. She maintained a new hobby last month by trying gardening for the first time.",
+          "C. The company maintained a new product line by launching it into the market.",
+          "D. They maintained a difficult relationship with ease, finding it uncomplicated."
+        ],
+        "answer": "A",
+        "explanation": "'maintain' 在此意为“维修”或“维持（良好状态）”，选项A正确表达了维修汽车的含义。"
+      },
+      {
+        "word": "considerable",
+        "question": "Which word is closest in meaning to \"considerable\"?",
+        "options": [
+          "A. minor",
+          "B. trivial",
+          "C. significant",
+          "D. negligible"
+        ],
+        "answer": "C",
+        "explanation": "'considerable' 意为“相当大的，相当多的”，'significant' 也有重要或大量的含义，是其近义词。"
+      },
+      {
+        "word": "attribute",
+        "question": "Choose the best English translation for \"把成功归因于努力工作\"?",
+        "options": [
+          "A. contribute success to hard work",
+          "B. attribute success to hard work",
+          "C. distribute success to hard work",
+          "D. institute success to hard work"
+        ],
+        "answer": "B",
+        "explanation": "'attribute to' 意为“把……归因于……”，是正确的表达方式。"
+      },
+      {
+        "word": "adapt",
+        "question": "It took some time for her to _______ to the new working environment after moving to a different city.",
+        "options": [
+          "A. adopt",
+          "B. adjust",
+          "C. accept",
+          "D. adapt"
+        ],
+        "answer": "D",
+        "explanation": "'adapt to' 意为“适应……”，是符合句子所需表达的动词词组。"
+      },
+      {
+        "word": "optional",
+        "question": "Which of the following best translates the word \"optional\"?",
+        "options": [
+          "A. 义务的",
+          "B. 唯一的",
+          "C. 可选择的",
+          "D. 必要的"
+        ],
+        "answer": "C",
+        "explanation": "'optional' 意为“可选择的，非强制的”，C选项是其准确翻译。"
+      },
+      {
+        "word": "evidence",
+        "question": "There is no concrete _______ to support his claims about the ancient civilization.",
+        "options": [
+          "A. argument",
+          "B. evidence",
+          "C. statement",
+          "D. opinion"
+        ],
+        "answer": "B",
+        "explanation": "这句话需要一个表示“证据”的词，'evidence'（证据）符合语境。"
+      },
+      {
+        "word": "allocate",
+        "question": "What is the meaning of the word \"allocate\"?",
+        "options": [
+          "A. 评估",
+          "B. 分配",
+          "C. 替代",
+          "D. 合作"
+        ],
+        "answer": "B",
+        "explanation": "Allocate意为“分配，分派”。"
+      }
+    ],
+    "last_question_fingerprints": [
+      "8adf0dcc47d664fd32670527450c6418da232e9e7d52ab971e05d3cb1c13bed9",
+      "56ee9f66d49b8d86f0f8399eb54b78335e857bdc87446dbe12f4a91345d1a56a",
+      "bf515bc619ffbe38dfec46e1dcb97a4ddaf473bfc547c31e5b7003889e5138ff",
+      "228fea80db5226a6ee00fe9631937ea9a89ef528d270b073b2653bfc37a0798b",
+      "8f40c608d76624cdef0436e4d1bd9f589be7b2600a8186615d1bbec9c2cadfbb",
+      "d50b1c92cc6d87ffeba73c803c67effb9dd3982bb79edfc60bd301f19cd4f81c",
+      "14ec3ae247480b5583902e55e5c6fdc3bb266c2833e4f288e8686f60d13d34ee",
+      "d1d855c34818290d2137c7b1762684aeb191602432202d7c4ebe5e03bf8646ef",
+      "2314f9bd040bb0df27c0d32e34c7837174121223e73df45c056aab119b648f6b",
+      "46839dc1d42f9a036601add8604c9e35d58f949e14471260c9a3dae22afdab43"
+    ]
   },
   "runs": {
     "2026-06-18": {
@@ -176,6 +318,10 @@
     "2026-06-29": {
       "kind": "story",
       "file": "daily/2026/06/2026-06-29-story.md"
+    },
+    "2026-06-30": {
+      "kind": "quiz-1",
+      "file": "daily/2026/06/2026-06-30-quiz-1.md"
     }
   }
 }
