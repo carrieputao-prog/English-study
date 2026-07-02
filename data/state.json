@@ -115,7 +115,17 @@
     "2ac1cd5d2f6da77cfc566dc8d0deef21eb774e3803ca48aca847ada1ab82568c",
     "b6b73d86154e0b0cf2afabeeb697415ba162ec2c62d517f6bcdf622b07610e97",
     "cad81a1b3caf1676be13a4c770fd5b8aac5e90705b23108469f6b7a156ff11fc",
-    "7c653043aefd71ad698b11e97584af6e4372cd4b1ea945f4a09ed57339cdb967"
+    "7c653043aefd71ad698b11e97584af6e4372cd4b1ea945f4a09ed57339cdb967",
+    "98df3802de69ad5f0498540314b5b63f18c5845862f8248ad3c9b560c12bf660",
+    "28ea7809cb0462e79b2c017b455cf3741fd99d32c430ba76d6bb83b2916f7568",
+    "bb36f5e0d5d9b764937ed96d728b8ae93a4a28f8224c14613d6ff0fb0ecddce0",
+    "f09ae34a5abb7e513afbd7d95d91678d8bac84e2daa4e9876c4af5b8f47e3eb6",
+    "6512920db8bfb099b3bd344d27e8ca0cdba7a349905d5a97979d925cf4bebb88",
+    "987e4663675a17eec4f28e9dd963929115ce09b4b488f0d6cba26832492787a0",
+    "0224a39375bb8238bce500b9e08984121036c426c6d6c864b6014df2581250b1",
+    "7fbdb561e9548668c50b4b8c25bf1bf98554664b2040d33c5ea9938fb12b3820",
+    "6b77bae465a9e0c1321e460725a13e05a83eb5ae53665969954ee8e5097f92a8",
+    "3f0bfe51205bdea284d50c3ec8eac944099fc2192a8d349fcfbf9d3dbabbe42c"
   ],
   "cycle": {
     "id": "2026-06-29",
@@ -163,137 +173,137 @@
     ],
     "previous_questions": [
       {
-        "word": "considerable",
-        "question": "The project required a _______ amount of time and effort to complete.",
+        "word": "optional",
+        "question": "If something is \"optional\", it means it is _______.",
         "options": [
-          "A) tiny",
-          "B) minimal",
-          "C) considerable",
-          "D) slight"
+          "A. mandatory",
+          "B. required",
+          "C. compulsory",
+          "D. not compulsory"
         ],
-        "answer": "C",
-        "explanation": "句意是项目需要“相当多的”时间精力来完成，“considerable”符合语境。"
-      },
-      {
-        "word": "evidence",
-        "question": "Which of the following is the best Chinese translation for \"scientific evidence\"?",
-        "options": [
-          "A) 科学证明",
-          "B) 科学假设",
-          "C) 科学理论",
-          "D) 科学研究"
-        ],
-        "answer": "A",
-        "explanation": "\"scientific evidence\" 意为 \"科学证据\" 或 \"科学证明\"。"
+        "answer": "D",
+        "explanation": "\"optional\" 意为可选择的，非强制的，因此它意味着“非强制的”。"
       },
       {
         "word": "allocate",
-        "question": "The government decided to _______ a significant portion of the budget to education and healthcare.",
+        "question": "\"合理分配资源\"的最佳英文表达是？",
         "options": [
-          "A) donate",
-          "B) collect",
-          "C) allocate",
-          "D) propose"
+          "A. reasonably divide resources",
+          "B. fairly share resources",
+          "C. rationally allocate resources",
+          "D. properly distribute resources"
         ],
         "answer": "C",
-        "explanation": "根据句意，政府决定将预算的很大一部分“分配”给教育和医疗，因此“allocate”是正确选项。"
-      },
-      {
-        "word": "maintain",
-        "question": "Which of the following best translates the meaning of \"maintain peace\" into Chinese?",
-        "options": [
-          "A) 保持和平",
-          "B) 提出和平",
-          "C) 损坏和平",
-          "D) 结束和平"
-        ],
-        "answer": "A",
-        "explanation": "\"maintain peace\" 意为“保持和平”或“维持和平”。"
-      },
-      {
-        "word": "attribute",
-        "question": "She tends to _______ her success to hard work and perseverance rather than luck.",
-        "options": [
-          "A) contribute",
-          "B) dedicate",
-          "C) attribute",
-          "D) ascribe"
-        ],
-        "answer": "C",
-        "explanation": "句意是她倾向于将成功归因于努力工作和毅力，“attribute to”意为“把…归因于”。"
-      },
-      {
-        "word": "adapt",
-        "question": "What is the primary meaning of \"adapt\" in the sentence: \"The director decided to adapt the novel into a film.\"?",
-        "options": [
-          "A) 调整",
-          "B) 适应",
-          "C) 改编",
-          "D) 匹配"
-        ],
-        "answer": "C",
-        "explanation": "在此语境中，“adapt”指将小说“改编”成电影。"
-      },
-      {
-        "word": "consequence",
-        "question": "Which of the following best translates the phrase \"take responsibility for the consequences\"?",
-        "options": [
-          "A) 对结果负责",
-          "B) 了解结果",
-          "C) 忽视结果",
-          "D) 创造结果"
-        ],
-        "answer": "A",
-        "explanation": "\"take responsibility for the consequences\" 意为“对结果负责”。"
+        "explanation": "\"allocate\" 意为分配，常用于资源、任务等的分配，\"rationally\" 意为合理地。"
       },
       {
         "word": "potential",
-        "question": "Which sentence correctly uses the word \"potential\" as an adjective?",
+        "question": "The young athlete shows great _______ to become a champion.",
         "options": [
-          "A) The potential of the new technology is enormous.",
-          "B) There is a potential risk involved in the project.",
-          "C) Her potential for growth is very high.",
-          "D) He realized his full potential after years of training."
+          "A. power",
+          "B. potential",
+          "C. strength",
+          "D. ability"
         ],
         "answer": "B",
-        "explanation": "在B选项中，“potential”修饰“risk”作为形容词，表示“潜在的风险”。"
+        "explanation": "句子表达“有很大的潜力成为冠军”，\"potential\"在此用作名词表示潜力。"
       },
       {
-        "word": "optional",
-        "question": "Attending the workshop is _______, but highly recommended for all new employees.",
+        "word": "evidence",
+        "question": "There is no concrete _______ to support his claims.",
         "options": [
-          "A) compulsory",
-          "B) optional",
-          "C) mandatory",
-          "D) essential"
+          "A. evidence",
+          "B. guess",
+          "C. idea",
+          "D. rumor"
+        ],
+        "answer": "A",
+        "explanation": "句子缺少一个表示\"证据\"的名词来支持\"他的主张\"。"
+      },
+      {
+        "word": "maintain",
+        "question": "It's important to regularly _______ your car for safety.",
+        "options": [
+          "A. repair",
+          "B. improve",
+          "C. maintain",
+          "D. build"
+        ],
+        "answer": "C",
+        "explanation": "\"maintain\" 意为维修或保养，符合句意中对汽车进行定期保养以保证安全。"
+      },
+      {
+        "word": "consequence",
+        "question": "Failure to follow the rules will have serious _______. ",
+        "options": [
+          "A. solutions",
+          "B. consequences",
+          "C. beginnings",
+          "D. advantages"
         ],
         "answer": "B",
-        "explanation": "句意是参加研讨会是“可选择的”但强烈推荐，因此“optional”符合语境。"
+        "explanation": "\"consequences\" 意为后果，通常指不好的结果，符合句意中不遵守规则会带来严重的后果。"
       },
       {
         "word": "moreover",
-        "question": "Which of the following words has a similar function to \"moreover\" in a sentence?",
+        "question": "The hotel offers excellent service; _______, it's located in the city center.",
         "options": [
-          "A) however",
-          "B) therefore",
-          "C) in addition",
-          "D) nevertheless"
+          "A. however",
+          "B. therefore",
+          "C. moreover",
+          "D. despite"
         ],
         "answer": "C",
-        "explanation": "“moreover”和“in addition”都用于在句子中添加额外信息，表示“此外，而且”。"
+        "explanation": "\"moreover\" 意为此外、而且，用于添加额外信息或论据，符合句意中在提到服务好之后，补充说明地理位置优越。"
+      },
+      {
+        "word": "attribute",
+        "question": "Which of the following is NOT an _______ of a good leader?",
+        "options": [
+          "A. honesty",
+          "B. responsibility",
+          "C. laziness",
+          "D. vision"
+        ],
+        "answer": "C",
+        "explanation": "\"attribute\" 在此用作名词，意为属性或特征，而“懒惰”显然不是好领导的属性。"
+      },
+      {
+        "word": "adapt",
+        "question": "It took her a while to _______ to the new working environment.",
+        "options": [
+          "A. adjust",
+          "B. accustom",
+          "C. adapt",
+          "D. conform"
+        ],
+        "answer": "C",
+        "explanation": "\"adapt to\" 意为适应，符合句意中适应新的工作环境。"
+      },
+      {
+        "word": "considerable",
+        "question": "Which word is closest in meaning to \"considerable\"?",
+        "options": [
+          "A. slight",
+          "B. trivial",
+          "C. significant",
+          "D. minimal"
+        ],
+        "answer": "C",
+        "explanation": "\"considerable\" 意为相当大的，与\"significant\"（重要的，显著的）意思最接近。"
       }
     ],
     "last_question_fingerprints": [
-      "82cdcf16bbd47f2e89223a2991210abe8ddb5deb9f9fc9b71288eace45589d53",
-      "981b23bc5bf52c0d977d7104f68e0c104d3c2cb200c6ddb20e74b4a7b3f99429",
-      "3c18209e91a7d1b556e2285a5b4284a42750da70d6a9621b9c87a6d7965611eb",
-      "ee79cf3fae518642dbfe221c19ed3ed7dab0ad667b7ca4e79f2f02d4de5240f6",
-      "9447c12e615af761e986fe8495c28cd9dadfcfa48e6a8d64ca209ec302578f29",
-      "858ab725e5104616519059e31ab136b0132beab688a6f96eb9436312c4a5e468",
-      "2ac1cd5d2f6da77cfc566dc8d0deef21eb774e3803ca48aca847ada1ab82568c",
-      "b6b73d86154e0b0cf2afabeeb697415ba162ec2c62d517f6bcdf622b07610e97",
-      "cad81a1b3caf1676be13a4c770fd5b8aac5e90705b23108469f6b7a156ff11fc",
-      "7c653043aefd71ad698b11e97584af6e4372cd4b1ea945f4a09ed57339cdb967"
+      "98df3802de69ad5f0498540314b5b63f18c5845862f8248ad3c9b560c12bf660",
+      "28ea7809cb0462e79b2c017b455cf3741fd99d32c430ba76d6bb83b2916f7568",
+      "bb36f5e0d5d9b764937ed96d728b8ae93a4a28f8224c14613d6ff0fb0ecddce0",
+      "f09ae34a5abb7e513afbd7d95d91678d8bac84e2daa4e9876c4af5b8f47e3eb6",
+      "6512920db8bfb099b3bd344d27e8ca0cdba7a349905d5a97979d925cf4bebb88",
+      "987e4663675a17eec4f28e9dd963929115ce09b4b488f0d6cba26832492787a0",
+      "0224a39375bb8238bce500b9e08984121036c426c6d6c864b6014df2581250b1",
+      "7fbdb561e9548668c50b4b8c25bf1bf98554664b2040d33c5ea9938fb12b3820",
+      "6b77bae465a9e0c1321e460725a13e05a83eb5ae53665969954ee8e5097f92a8",
+      "3f0bfe51205bdea284d50c3ec8eac944099fc2192a8d349fcfbf9d3dbabbe42c"
     ]
   },
   "runs": {
@@ -336,6 +346,10 @@
     "2026-07-01": {
       "kind": "quiz-2",
       "file": "daily/2026/07/2026-07-01-quiz-2.md"
+    },
+    "2026-07-03": {
+      "kind": "quiz-1",
+      "file": "daily/2026/07/2026-07-03-quiz-1.md"
     }
   }
 }
