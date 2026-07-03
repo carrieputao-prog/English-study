@@ -125,7 +125,17 @@
     "0224a39375bb8238bce500b9e08984121036c426c6d6c864b6014df2581250b1",
     "7fbdb561e9548668c50b4b8c25bf1bf98554664b2040d33c5ea9938fb12b3820",
     "6b77bae465a9e0c1321e460725a13e05a83eb5ae53665969954ee8e5097f92a8",
-    "3f0bfe51205bdea284d50c3ec8eac944099fc2192a8d349fcfbf9d3dbabbe42c"
+    "3f0bfe51205bdea284d50c3ec8eac944099fc2192a8d349fcfbf9d3dbabbe42c",
+    "e57ab968e88213e6398e7f18973483f6c553dc759e6405fe85223637b975aa39",
+    "ec9586a2d58a6d999c7f8297688f1d31e74f4a0a39992f90f53251289f82fdc0",
+    "b4b3fcee08b22c460116a6511ce771059cfd37e979b93174c16731453f1c32cc",
+    "2ea72c9b044c10898e0f9c8db3deca07c48a4b30c115c5e8a2ebd3143f0fac8d",
+    "9cc546e1b7ba76049c5451af6ce1f18133a8c3e6f466f96d993d1092195bf56a",
+    "c88a7ed0e663fb8b94737e7d9646c096865f6aa57f9f9cc42a3c44e73352d679",
+    "d8fc3ad2451e3fd6a829ae90e3203bc5bea6a8d8305ba3903aa4e08cdecb22bc",
+    "eed10b8380a85fba690ed0393102e07458e06e35e4f96d434206d9af0e34eb2f",
+    "4e103f843856c59e68a2167a10b163b8db965fe264977a72aa156f511ab4ad84",
+    "9e9bd3df88a88d13c41d90888c92547d43b4cb797b6d7cdd197171153c24c70a"
   ],
   "cycle": {
     "id": "2026-06-29",
@@ -173,137 +183,137 @@
     ],
     "previous_questions": [
       {
-        "word": "optional",
-        "question": "If something is \"optional\", it means it is _______.",
-        "options": [
-          "A. mandatory",
-          "B. required",
-          "C. compulsory",
-          "D. not compulsory"
-        ],
-        "answer": "D",
-        "explanation": "\"optional\" 意为可选择的，非强制的，因此它意味着“非强制的”。"
-      },
-      {
-        "word": "allocate",
-        "question": "\"合理分配资源\"的最佳英文表达是？",
-        "options": [
-          "A. reasonably divide resources",
-          "B. fairly share resources",
-          "C. rationally allocate resources",
-          "D. properly distribute resources"
-        ],
-        "answer": "C",
-        "explanation": "\"allocate\" 意为分配，常用于资源、任务等的分配，\"rationally\" 意为合理地。"
-      },
-      {
         "word": "potential",
-        "question": "The young athlete shows great _______ to become a champion.",
+        "question": "She has great _______ as an artist, but she needs more practice.",
         "options": [
-          "A. power",
-          "B. potential",
-          "C. strength",
-          "D. ability"
-        ],
-        "answer": "B",
-        "explanation": "句子表达“有很大的潜力成为冠军”，\"potential\"在此用作名词表示潜力。"
-      },
-      {
-        "word": "evidence",
-        "question": "There is no concrete _______ to support his claims.",
-        "options": [
-          "A. evidence",
-          "B. guess",
-          "C. idea",
-          "D. rumor"
-        ],
-        "answer": "A",
-        "explanation": "句子缺少一个表示\"证据\"的名词来支持\"他的主张\"。"
-      },
-      {
-        "word": "maintain",
-        "question": "It's important to regularly _______ your car for safety.",
-        "options": [
-          "A. repair",
-          "B. improve",
-          "C. maintain",
-          "D. build"
+          "A. ability",
+          "B. talent",
+          "C. potential",
+          "D. skill"
         ],
         "answer": "C",
-        "explanation": "\"maintain\" 意为维修或保养，符合句意中对汽车进行定期保养以保证安全。"
+        "explanation": "“potential”指的是某人未来可能发展或实现的能力或可能性，符合句中艺术家有很大潜力的语境。"
       },
       {
         "word": "consequence",
-        "question": "Failure to follow the rules will have serious _______. ",
+        "question": "What is the most likely _______ of climate change?",
         "options": [
-          "A. solutions",
-          "B. consequences",
-          "C. beginnings",
-          "D. advantages"
+          "A. impact",
+          "B. cause",
+          "C. origin",
+          "D. solution"
         ],
-        "answer": "B",
-        "explanation": "\"consequences\" 意为后果，通常指不好的结果，符合句意中不遵守规则会带来严重的后果。"
-      },
-      {
-        "word": "moreover",
-        "question": "The hotel offers excellent service; _______, it's located in the city center.",
-        "options": [
-          "A. however",
-          "B. therefore",
-          "C. moreover",
-          "D. despite"
-        ],
-        "answer": "C",
-        "explanation": "\"moreover\" 意为此外、而且，用于添加额外信息或论据，符合句意中在提到服务好之后，补充说明地理位置优越。"
+        "answer": "A",
+        "explanation": "“consequence”指结果、后果，在此处与“impact”（影响）作为近义词最贴切。"
       },
       {
         "word": "attribute",
-        "question": "Which of the following is NOT an _______ of a good leader?",
+        "question": "Many ancient cultures _______ supernatural powers to the sun and moon.",
         "options": [
-          "A. honesty",
-          "B. responsibility",
-          "C. laziness",
-          "D. vision"
+          "A. contributed",
+          "B. attributed",
+          "C. ascribed",
+          "D. distributed"
+        ],
+        "answer": "B",
+        "explanation": "“attribute (to)”意为把...归因于，在此处表示将超自然力量归因于日月。"
+      },
+      {
+        "word": "evidence",
+        "question": "The police found no _______ to link him to the crime.",
+        "options": [
+          "A. motive",
+          "B. evidence",
+          "C. alibi",
+          "D. suspect"
+        ],
+        "answer": "B",
+        "explanation": "句子表示警方没有发现将他与罪行联系起来的证据，因此选择“evidence”。"
+      },
+      {
+        "word": "optional",
+        "question": "Which of the following sentences uses \"optional\" correctly?",
+        "options": [
+          "A. The optional subject is mandatory for all students.",
+          "B. You have the optional to choose your own dessert.",
+          "C. Wearing a uniform is optional at this school.",
+          "D. They made an optional decision to stay home."
         ],
         "answer": "C",
-        "explanation": "\"attribute\" 在此用作名词，意为属性或特征，而“懒惰”显然不是好领导的属性。"
+        "explanation": "“optional”作形容词，意为可选的，非强制的。“Wearing a uniform is optional”表述正确，符合其形容词的用法。"
       },
       {
         "word": "adapt",
-        "question": "It took her a while to _______ to the new working environment.",
+        "question": "The chameleon can _______ its color to blend in with its surroundings.",
         "options": [
           "A. adjust",
-          "B. accustom",
+          "B. convert",
           "C. adapt",
-          "D. conform"
+          "D. modify"
         ],
         "answer": "C",
-        "explanation": "\"adapt to\" 意为适应，符合句意中适应新的工作环境。"
+        "explanation": "“adapt”在这里指适应环境，变色以融入周围环境，强调自身做出改变以适应。"
+      },
+      {
+        "word": "moreover",
+        "question": "I don't want to go out tonight; _______, I have a lot of work to do.",
+        "options": [
+          "A. however",
+          "B. therefore",
+          "C. instead",
+          "D. besides"
+        ],
+        "answer": "D",
+        "explanation": "“moreover”意为此外、而且，表示附加信息，与“besides”含义相近。"
       },
       {
         "word": "considerable",
-        "question": "Which word is closest in meaning to \"considerable\"?",
+        "question": "The company suffered a _______ loss due to the economic downturn.",
         "options": [
-          "A. slight",
-          "B. trivial",
+          "A. minor",
+          "B. negligible",
           "C. significant",
-          "D. minimal"
+          "D. trivial"
         ],
         "answer": "C",
-        "explanation": "\"considerable\" 意为相当大的，与\"significant\"（重要的，显著的）意思最接近。"
+        "explanation": "“considerable”意为相当大的，与“significant”同义，符合句子中因经济衰退而遭受巨大损失的语境。"
+      },
+      {
+        "word": "allocate",
+        "question": "How would you translate \"为紧急情况分拨资金\" into English?",
+        "options": [
+          "A. Assign funds for emergency",
+          "B. Allocate funds for emergencies",
+          "C. Distribute funds for emergency",
+          "D. Dispatch funds for emergencies"
+        ],
+        "answer": "B",
+        "explanation": "“Allocate funds for emergencies”是“为紧急情况分拨资金”的正确翻译，其中“allocate”意为分配，分拨。"
+      },
+      {
+        "word": "maintain",
+        "question": "To _______ a healthy lifestyle, regular exercise and a balanced diet are essential.",
+        "options": [
+          "A. obtain",
+          "B. acquire",
+          "C. maintain",
+          "D. improve"
+        ],
+        "answer": "C",
+        "explanation": "“maintain”意为维持、保持，符合语境中保持健康生活方式的含义。"
       }
     ],
     "last_question_fingerprints": [
-      "98df3802de69ad5f0498540314b5b63f18c5845862f8248ad3c9b560c12bf660",
-      "28ea7809cb0462e79b2c017b455cf3741fd99d32c430ba76d6bb83b2916f7568",
-      "bb36f5e0d5d9b764937ed96d728b8ae93a4a28f8224c14613d6ff0fb0ecddce0",
-      "f09ae34a5abb7e513afbd7d95d91678d8bac84e2daa4e9876c4af5b8f47e3eb6",
-      "6512920db8bfb099b3bd344d27e8ca0cdba7a349905d5a97979d925cf4bebb88",
-      "987e4663675a17eec4f28e9dd963929115ce09b4b488f0d6cba26832492787a0",
-      "0224a39375bb8238bce500b9e08984121036c426c6d6c864b6014df2581250b1",
-      "7fbdb561e9548668c50b4b8c25bf1bf98554664b2040d33c5ea9938fb12b3820",
-      "6b77bae465a9e0c1321e460725a13e05a83eb5ae53665969954ee8e5097f92a8",
-      "3f0bfe51205bdea284d50c3ec8eac944099fc2192a8d349fcfbf9d3dbabbe42c"
+      "e57ab968e88213e6398e7f18973483f6c553dc759e6405fe85223637b975aa39",
+      "ec9586a2d58a6d999c7f8297688f1d31e74f4a0a39992f90f53251289f82fdc0",
+      "b4b3fcee08b22c460116a6511ce771059cfd37e979b93174c16731453f1c32cc",
+      "2ea72c9b044c10898e0f9c8db3deca07c48a4b30c115c5e8a2ebd3143f0fac8d",
+      "9cc546e1b7ba76049c5451af6ce1f18133a8c3e6f466f96d993d1092195bf56a",
+      "c88a7ed0e663fb8b94737e7d9646c096865f6aa57f9f9cc42a3c44e73352d679",
+      "d8fc3ad2451e3fd6a829ae90e3203bc5bea6a8d8305ba3903aa4e08cdecb22bc",
+      "eed10b8380a85fba690ed0393102e07458e06e35e4f96d434206d9af0e34eb2f",
+      "4e103f843856c59e68a2167a10b163b8db965fe264977a72aa156f511ab4ad84",
+      "9e9bd3df88a88d13c41d90888c92547d43b4cb797b6d7cdd197171153c24c70a"
     ]
   },
   "runs": {
@@ -350,6 +360,10 @@
     "2026-07-03": {
       "kind": "quiz-1",
       "file": "daily/2026/07/2026-07-03-quiz-1.md"
+    },
+    "2026-07-04": {
+      "kind": "quiz-2",
+      "file": "daily/2026/07/2026-07-04-quiz-2.md"
     }
   }
 }
