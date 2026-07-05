@@ -41,19 +41,29 @@
     "considerable",
     "consequence",
     "moreover",
-    "optional"
+    "optional",
+    "therefore",
+    "consistent",
+    "evaluate",
+    "dedicate",
+    "obtain",
+    "exclusive",
+    "release",
+    "convey",
+    "obstacle",
+    "commit"
   ],
   "last_story_words": [
-    "evidence",
-    "allocate",
-    "potential",
-    "maintain",
-    "attribute",
-    "adapt",
-    "considerable",
-    "consequence",
-    "moreover",
-    "optional"
+    "therefore",
+    "consistent",
+    "evaluate",
+    "dedicate",
+    "obtain",
+    "exclusive",
+    "release",
+    "convey",
+    "obstacle",
+    "commit"
   ],
   "used_question_fingerprints": [
     "099818395d91fc2feff66c93ecf0ed80e8e6cd501000b5aa4a08121ee957be75",
@@ -138,183 +148,51 @@
     "9e9bd3df88a88d13c41d90888c92547d43b4cb797b6d7cdd197171153c24c70a"
   ],
   "cycle": {
-    "id": "2026-06-29",
+    "id": "2026-07-06",
     "words": [
       {
-        "word": "evidence",
-        "translation": "证据，证明"
+        "word": "therefore",
+        "translation": "因此"
       },
       {
-        "word": "allocate",
-        "translation": "分配，分派"
+        "word": "consistent",
+        "translation": "一致的，连贯的"
       },
       {
-        "word": "potential",
-        "translation": "潜力 (a.) 潜在的"
+        "word": "evaluate",
+        "translation": "评估，评价"
       },
       {
-        "word": "maintain",
-        "translation": "维持；维修；主张"
+        "word": "dedicate",
+        "translation": "致力于，奉献"
       },
       {
-        "word": "attribute",
-        "translation": "把...归因于 (n.) 属性，特征"
+        "word": "obtain",
+        "translation": "获得，得到"
       },
       {
-        "word": "adapt",
-        "translation": "适应；改编"
+        "word": "exclusive",
+        "translation": "独有的，排外的"
       },
       {
-        "word": "considerable",
-        "translation": "相当大的/多的"
+        "word": "release",
+        "translation": "释放；发布"
       },
       {
-        "word": "consequence",
-        "translation": "结果，后果"
+        "word": "convey",
+        "translation": "表达，传达（思想/感情）"
       },
       {
-        "word": "moreover",
-        "translation": "此外，而且"
+        "word": "obstacle",
+        "translation": "障碍，妨碍"
       },
       {
-        "word": "optional",
-        "translation": "可选择的，非强制的"
+        "word": "commit",
+        "translation": "犯罪；承诺，把...交托"
       }
     ],
-    "previous_questions": [
-      {
-        "word": "potential",
-        "question": "She has great _______ as an artist, but she needs more practice.",
-        "options": [
-          "A. ability",
-          "B. talent",
-          "C. potential",
-          "D. skill"
-        ],
-        "answer": "C",
-        "explanation": "“potential”指的是某人未来可能发展或实现的能力或可能性，符合句中艺术家有很大潜力的语境。"
-      },
-      {
-        "word": "consequence",
-        "question": "What is the most likely _______ of climate change?",
-        "options": [
-          "A. impact",
-          "B. cause",
-          "C. origin",
-          "D. solution"
-        ],
-        "answer": "A",
-        "explanation": "“consequence”指结果、后果，在此处与“impact”（影响）作为近义词最贴切。"
-      },
-      {
-        "word": "attribute",
-        "question": "Many ancient cultures _______ supernatural powers to the sun and moon.",
-        "options": [
-          "A. contributed",
-          "B. attributed",
-          "C. ascribed",
-          "D. distributed"
-        ],
-        "answer": "B",
-        "explanation": "“attribute (to)”意为把...归因于，在此处表示将超自然力量归因于日月。"
-      },
-      {
-        "word": "evidence",
-        "question": "The police found no _______ to link him to the crime.",
-        "options": [
-          "A. motive",
-          "B. evidence",
-          "C. alibi",
-          "D. suspect"
-        ],
-        "answer": "B",
-        "explanation": "句子表示警方没有发现将他与罪行联系起来的证据，因此选择“evidence”。"
-      },
-      {
-        "word": "optional",
-        "question": "Which of the following sentences uses \"optional\" correctly?",
-        "options": [
-          "A. The optional subject is mandatory for all students.",
-          "B. You have the optional to choose your own dessert.",
-          "C. Wearing a uniform is optional at this school.",
-          "D. They made an optional decision to stay home."
-        ],
-        "answer": "C",
-        "explanation": "“optional”作形容词，意为可选的，非强制的。“Wearing a uniform is optional”表述正确，符合其形容词的用法。"
-      },
-      {
-        "word": "adapt",
-        "question": "The chameleon can _______ its color to blend in with its surroundings.",
-        "options": [
-          "A. adjust",
-          "B. convert",
-          "C. adapt",
-          "D. modify"
-        ],
-        "answer": "C",
-        "explanation": "“adapt”在这里指适应环境，变色以融入周围环境，强调自身做出改变以适应。"
-      },
-      {
-        "word": "moreover",
-        "question": "I don't want to go out tonight; _______, I have a lot of work to do.",
-        "options": [
-          "A. however",
-          "B. therefore",
-          "C. instead",
-          "D. besides"
-        ],
-        "answer": "D",
-        "explanation": "“moreover”意为此外、而且，表示附加信息，与“besides”含义相近。"
-      },
-      {
-        "word": "considerable",
-        "question": "The company suffered a _______ loss due to the economic downturn.",
-        "options": [
-          "A. minor",
-          "B. negligible",
-          "C. significant",
-          "D. trivial"
-        ],
-        "answer": "C",
-        "explanation": "“considerable”意为相当大的，与“significant”同义，符合句子中因经济衰退而遭受巨大损失的语境。"
-      },
-      {
-        "word": "allocate",
-        "question": "How would you translate \"为紧急情况分拨资金\" into English?",
-        "options": [
-          "A. Assign funds for emergency",
-          "B. Allocate funds for emergencies",
-          "C. Distribute funds for emergency",
-          "D. Dispatch funds for emergencies"
-        ],
-        "answer": "B",
-        "explanation": "“Allocate funds for emergencies”是“为紧急情况分拨资金”的正确翻译，其中“allocate”意为分配，分拨。"
-      },
-      {
-        "word": "maintain",
-        "question": "To _______ a healthy lifestyle, regular exercise and a balanced diet are essential.",
-        "options": [
-          "A. obtain",
-          "B. acquire",
-          "C. maintain",
-          "D. improve"
-        ],
-        "answer": "C",
-        "explanation": "“maintain”意为维持、保持，符合语境中保持健康生活方式的含义。"
-      }
-    ],
-    "last_question_fingerprints": [
-      "e57ab968e88213e6398e7f18973483f6c553dc759e6405fe85223637b975aa39",
-      "ec9586a2d58a6d999c7f8297688f1d31e74f4a0a39992f90f53251289f82fdc0",
-      "b4b3fcee08b22c460116a6511ce771059cfd37e979b93174c16731453f1c32cc",
-      "2ea72c9b044c10898e0f9c8db3deca07c48a4b30c115c5e8a2ebd3143f0fac8d",
-      "9cc546e1b7ba76049c5451af6ce1f18133a8c3e6f466f96d993d1092195bf56a",
-      "c88a7ed0e663fb8b94737e7d9646c096865f6aa57f9f9cc42a3c44e73352d679",
-      "d8fc3ad2451e3fd6a829ae90e3203bc5bea6a8d8305ba3903aa4e08cdecb22bc",
-      "eed10b8380a85fba690ed0393102e07458e06e35e4f96d434206d9af0e34eb2f",
-      "4e103f843856c59e68a2167a10b163b8db965fe264977a72aa156f511ab4ad84",
-      "9e9bd3df88a88d13c41d90888c92547d43b4cb797b6d7cdd197171153c24c70a"
-    ]
+    "previous_questions": [],
+    "last_question_fingerprints": []
   },
   "runs": {
     "2026-06-18": {
@@ -364,6 +242,10 @@
     "2026-07-04": {
       "kind": "quiz-2",
       "file": "daily/2026/07/2026-07-04-quiz-2.md"
+    },
+    "2026-07-06": {
+      "kind": "story",
+      "file": "daily/2026/07/2026-07-06-story.md"
     }
   }
 }
