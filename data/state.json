@@ -145,7 +145,17 @@
     "d8fc3ad2451e3fd6a829ae90e3203bc5bea6a8d8305ba3903aa4e08cdecb22bc",
     "eed10b8380a85fba690ed0393102e07458e06e35e4f96d434206d9af0e34eb2f",
     "4e103f843856c59e68a2167a10b163b8db965fe264977a72aa156f511ab4ad84",
-    "9e9bd3df88a88d13c41d90888c92547d43b4cb797b6d7cdd197171153c24c70a"
+    "9e9bd3df88a88d13c41d90888c92547d43b4cb797b6d7cdd197171153c24c70a",
+    "6cf8b2085ff2f1dd949f23fa109087b98e93fe5a3ab2459b287d251c92505f23",
+    "f49c404392e81ef3f8378b0de2cedc1a7d2663d24441b904dc973c2dace16f6a",
+    "2690657e5138fe04eab6d69e46fbe8a8e59050c4643741a1802b96180d412772",
+    "535a07ac6753323cb2c1f6dbcdd5c227630e73fa7dfdb6723787af3c0e230d69",
+    "d74484d82ca68b63f9d10a64e2c6471d1a06b6f0929b8ecd3dac9fbf7b250404",
+    "268d8b688d20e8314cb4ae627662c698686c6691e0160ab8b837682e614303e0",
+    "e3ff2abbf4f680e32a29f139372914ec60310dfc3dc8c8059fa0994f81fd6f49",
+    "6a38a2d2fc30c5e59e7dfa9e242487b0f94fa50d07b1f053e3b659d44e67eaa6",
+    "84f98c4676a83cce8a31047b93774397d90663763fa9e9eb3616dc593f7cc855",
+    "4588f13cd1b8ebdf2f6211adc35439dbdb84c10a13293a876a55341acaf48fb4"
   ],
   "cycle": {
     "id": "2026-07-06",
@@ -191,8 +201,140 @@
         "translation": "犯罪；承诺，把...交托"
       }
     ],
-    "previous_questions": [],
-    "last_question_fingerprints": []
+    "previous_questions": [
+      {
+        "word": "convey",
+        "question": "Words alone cannot fully ______ the depth of my feelings.",
+        "options": [
+          "A. ignore",
+          "B. convey",
+          "C. forget",
+          "D. suppress"
+        ],
+        "answer": "B",
+        "explanation": "\"convey\" 意为“传达，表达（思想或感情）”，符合句意。"
+      },
+      {
+        "word": "evaluate",
+        "question": "请选择与句子中 \"evaluate\" 一词意义最接近的中文翻译：It's important to evaluate your progress regularly.",
+        "options": [
+          "A. 创造",
+          "B. 评估",
+          "C. 改善",
+          "D. 保持"
+        ],
+        "answer": "B",
+        "explanation": "\"evaluate\" 意为“评估，评价”，符合句意。"
+      },
+      {
+        "word": "therefore",
+        "question": "The train was delayed; _______, I missed my connecting flight.",
+        "options": [
+          "A. however",
+          "B. moreover",
+          "C. therefore",
+          "D. although"
+        ],
+        "answer": "C",
+        "explanation": "\"therefore\" 意为“因此”，表示结果，符合句意。"
+      },
+      {
+        "word": "obtain",
+        "question": "How did you ______ such a rare book?",
+        "options": [
+          "A. lose",
+          "B. obtain",
+          "C. give",
+          "D. avoid"
+        ],
+        "answer": "B",
+        "explanation": "\"obtain\" 意为“获得，得到”，符合“获得一本稀有的书”的语境。"
+      },
+      {
+        "word": "exclusive",
+        "question": "Which of the following best describes an \"exclusive\" club?",
+        "options": [
+          "A. A club open to everyone.",
+          "B. A club with many members.",
+          "C. A club that restricts membership to a select group.",
+          "D. A club that offers diverse activities."
+        ],
+        "answer": "C",
+        "explanation": "\"exclusive\" 意为“排外的，独有的”，特指限制成员的俱乐部。"
+      },
+      {
+        "word": "obstacle",
+        "question": "A lack of funding proved to be the main ______ to the project's success.",
+        "options": [
+          "A. advantage",
+          "B. solution",
+          "C. obstacle",
+          "D. foundation"
+        ],
+        "answer": "C",
+        "explanation": "\"obstacle\" 意为“障碍”，在资金不足的情况下，资金短缺会成为项目成功的障碍。"
+      },
+      {
+        "word": "release",
+        "question": "The company plans to ______ its new smartphone next month.",
+        "options": [
+          "A. hold",
+          "B. delay",
+          "C. release",
+          "D. conceal"
+        ],
+        "answer": "C",
+        "explanation": "\"release\" 意为“发布”，用于新产品发布符合句意。"
+      },
+      {
+        "word": "commit",
+        "question": "He made a promise and decided to ______ to it.",
+        "options": [
+          "A. withdraw",
+          "B. forget",
+          "C. commit",
+          "D. regret"
+        ],
+        "answer": "C",
+        "explanation": "\"commit to something\" 意为“致力于某事；承诺做某事”，符合“承诺并决定遵守”的语境。"
+      },
+      {
+        "word": "dedicate",
+        "question": "\"她毕生致力于研究抗癌药物。\" 对应的英文翻译是？",
+        "options": [
+          "A. She spent her life discovering cancer drugs.",
+          "B. She lived to find cancer cures.",
+          "C. She dedicated her life to researching cancer drugs.",
+          "D. She offered her life for cancer research."
+        ],
+        "answer": "C",
+        "explanation": "\"dedicate...to\" 表示“致力于……”，准确翻译了中文句子的意思。"
+      },
+      {
+        "word": "consistent",
+        "question": "Which word is closest in meaning to \"consistent\" in \"The team's performance has been consistent this season\"?",
+        "options": [
+          "A. erratic",
+          "B. steady",
+          "C. sporadic",
+          "D. various"
+        ],
+        "answer": "B",
+        "explanation": "\"consistent\" 意为“持续的，一贯的”，与 \"steady\"（稳定的，持续的）意思相近。"
+      }
+    ],
+    "last_question_fingerprints": [
+      "6cf8b2085ff2f1dd949f23fa109087b98e93fe5a3ab2459b287d251c92505f23",
+      "f49c404392e81ef3f8378b0de2cedc1a7d2663d24441b904dc973c2dace16f6a",
+      "2690657e5138fe04eab6d69e46fbe8a8e59050c4643741a1802b96180d412772",
+      "535a07ac6753323cb2c1f6dbcdd5c227630e73fa7dfdb6723787af3c0e230d69",
+      "d74484d82ca68b63f9d10a64e2c6471d1a06b6f0929b8ecd3dac9fbf7b250404",
+      "268d8b688d20e8314cb4ae627662c698686c6691e0160ab8b837682e614303e0",
+      "e3ff2abbf4f680e32a29f139372914ec60310dfc3dc8c8059fa0994f81fd6f49",
+      "6a38a2d2fc30c5e59e7dfa9e242487b0f94fa50d07b1f053e3b659d44e67eaa6",
+      "84f98c4676a83cce8a31047b93774397d90663763fa9e9eb3616dc593f7cc855",
+      "4588f13cd1b8ebdf2f6211adc35439dbdb84c10a13293a876a55341acaf48fb4"
+    ]
   },
   "runs": {
     "2026-06-18": {
@@ -246,6 +388,10 @@
     "2026-07-06": {
       "kind": "story",
       "file": "daily/2026/07/2026-07-06-story.md"
+    },
+    "2026-07-07": {
+      "kind": "quiz-1",
+      "file": "daily/2026/07/2026-07-07-quiz-1.md"
     }
   }
 }
