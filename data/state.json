@@ -155,7 +155,17 @@
     "e3ff2abbf4f680e32a29f139372914ec60310dfc3dc8c8059fa0994f81fd6f49",
     "6a38a2d2fc30c5e59e7dfa9e242487b0f94fa50d07b1f053e3b659d44e67eaa6",
     "84f98c4676a83cce8a31047b93774397d90663763fa9e9eb3616dc593f7cc855",
-    "4588f13cd1b8ebdf2f6211adc35439dbdb84c10a13293a876a55341acaf48fb4"
+    "4588f13cd1b8ebdf2f6211adc35439dbdb84c10a13293a876a55341acaf48fb4",
+    "e21d1198298596ea913d0503f3eb93efe9389ac396c7f02de5c3ad728fb94994",
+    "5c02bee5e1411d01cb58f6913d6205589b8fed0fe040b2a3707fd59c279358a1",
+    "b72311c29648fc7382f531eadbc6c60bc073a91eadfca29332320c721299c3c1",
+    "a08d2166ff97e6ecbb9dab213afb47ef61096d850e91b6ba3dec5df70da0684e",
+    "d8aeb75ce6ce8ce47cff4de9fc65265aa22da6499a0b857c739fff153d328bf5",
+    "c14caea90b0a2baa157e568ea0d0b65174c676399c9942b3ad2178754de20f34",
+    "0b92b08839895861a856097fb7efe8338fe56576417eed6fca4e112efd34642c",
+    "dcc517ebffcbb9f13651b38776cfe4ce1b5682c1bbd720622908538c33bc5290",
+    "3d3aba312643f5ed28abb968ead4d23381d664ccadea7932b740f1dd2126e044",
+    "5f4196e0856e460a92864b4b0b16c73ee617c3773a85bf367360c950bed74f79"
   ],
   "cycle": {
     "id": "2026-07-06",
@@ -204,136 +214,136 @@
     "previous_questions": [
       {
         "word": "convey",
-        "question": "Words alone cannot fully ______ the depth of my feelings.",
+        "question": "The main purpose of language is to ______ ideas effectively.",
         "options": [
-          "A. ignore",
-          "B. convey",
-          "C. forget",
-          "D. suppress"
-        ],
-        "answer": "B",
-        "explanation": "\"convey\" 意为“传达，表达（思想或感情）”，符合句意。"
-      },
-      {
-        "word": "evaluate",
-        "question": "请选择与句子中 \"evaluate\" 一词意义最接近的中文翻译：It's important to evaluate your progress regularly.",
-        "options": [
-          "A. 创造",
-          "B. 评估",
-          "C. 改善",
-          "D. 保持"
-        ],
-        "answer": "B",
-        "explanation": "\"evaluate\" 意为“评估，评价”，符合句意。"
-      },
-      {
-        "word": "therefore",
-        "question": "The train was delayed; _______, I missed my connecting flight.",
-        "options": [
-          "A. however",
-          "B. moreover",
-          "C. therefore",
-          "D. although"
+          "evaluate",
+          "obtain",
+          "convey",
+          "commit"
         ],
         "answer": "C",
-        "explanation": "\"therefore\" 意为“因此”，表示结果，符合句意。"
+        "explanation": "\"convey ideas\" 意为“传达思想”，符合句意。"
       },
       {
         "word": "obtain",
-        "question": "How did you ______ such a rare book?",
+        "question": "\"Obtain\" in \"to obtain a permit\" is closest in meaning to:",
         "options": [
-          "A. lose",
-          "B. obtain",
-          "C. give",
-          "D. avoid"
+          "acquire",
+          "prevent",
+          "hide",
+          "give up"
         ],
-        "answer": "B",
-        "explanation": "\"obtain\" 意为“获得，得到”，符合“获得一本稀有的书”的语境。"
-      },
-      {
-        "word": "exclusive",
-        "question": "Which of the following best describes an \"exclusive\" club?",
-        "options": [
-          "A. A club open to everyone.",
-          "B. A club with many members.",
-          "C. A club that restricts membership to a select group.",
-          "D. A club that offers diverse activities."
-        ],
-        "answer": "C",
-        "explanation": "\"exclusive\" 意为“排外的，独有的”，特指限制成员的俱乐部。"
-      },
-      {
-        "word": "obstacle",
-        "question": "A lack of funding proved to be the main ______ to the project's success.",
-        "options": [
-          "A. advantage",
-          "B. solution",
-          "C. obstacle",
-          "D. foundation"
-        ],
-        "answer": "C",
-        "explanation": "\"obstacle\" 意为“障碍”，在资金不足的情况下，资金短缺会成为项目成功的障碍。"
+        "answer": "A",
+        "explanation": "\"obtain\" 意为“获得，得到”，与 \"acquire\" 意思相近。"
       },
       {
         "word": "release",
-        "question": "The company plans to ______ its new smartphone next month.",
+        "question": "Which option correctly translates \"release pressure\"?",
         "options": [
-          "A. hold",
-          "B. delay",
-          "C. release",
-          "D. conceal"
+          "释放压力",
+          "增加压力",
+          "承受压力",
+          "保持压力"
         ],
-        "answer": "C",
-        "explanation": "\"release\" 意为“发布”，用于新产品发布符合句意。"
+        "answer": "A",
+        "explanation": "\"release pressure\" 意为“释放压力”，符合词义。"
       },
       {
         "word": "commit",
-        "question": "He made a promise and decided to ______ to it.",
+        "question": "He was arrested for attempting to ______ a robbery.",
         "options": [
-          "A. withdraw",
-          "B. forget",
-          "C. commit",
-          "D. regret"
+          "evaluate",
+          "dedicate",
+          "release",
+          "commit"
         ],
-        "answer": "C",
-        "explanation": "\"commit to something\" 意为“致力于某事；承诺做某事”，符合“承诺并决定遵守”的语境。"
+        "answer": "D",
+        "explanation": "\"commit a robbery\" 意为“实施抢劫”，符合词义。"
+      },
+      {
+        "word": "exclusive",
+        "question": "Which sentence correctly uses the word \"exclusive\"?",
+        "options": [
+          "This store has the exclusive right to sell the product in this region.",
+          "The general public can enter this exclusive area.",
+          "He felt inclusive from the group.",
+          "They offered a non-exclusive deal to everyone."
+        ],
+        "answer": "A",
+        "explanation": "\"exclusive right\" 意为“独家权利”，表示排他性，符合词义。"
       },
       {
         "word": "dedicate",
-        "question": "\"她毕生致力于研究抗癌药物。\" 对应的英文翻译是？",
+        "question": "The artist decided to ______ her latest masterpiece to her mentor.",
         "options": [
-          "A. She spent her life discovering cancer drugs.",
-          "B. She lived to find cancer cures.",
-          "C. She dedicated her life to researching cancer drugs.",
-          "D. She offered her life for cancer research."
+          "commit",
+          "release",
+          "convey",
+          "dedicate"
+        ],
+        "answer": "D",
+        "explanation": "\"dedicate something to someone\" 意为“把...献给某人”，符合句意。"
+      },
+      {
+        "word": "evaluate",
+        "question": "Before making a big purchase, it's wise to carefully ______ all your options.",
+        "options": [
+          "obtain",
+          "release",
+          "evaluate",
+          "dedicate"
         ],
         "answer": "C",
-        "explanation": "\"dedicate...to\" 表示“致力于……”，准确翻译了中文句子的意思。"
+        "explanation": "\"evaluate options\" 意为“评估所有选项”，符合句意。"
+      },
+      {
+        "word": "therefore",
+        "question": "选择最能表达“因此”含义的词语是？",
+        "options": [
+          "However",
+          "Therefore",
+          "Moreover",
+          "Although"
+        ],
+        "answer": "B",
+        "explanation": "\"therefore\" 意为“因此，所以”，表示结果。"
       },
       {
         "word": "consistent",
-        "question": "Which word is closest in meaning to \"consistent\" in \"The team's performance has been consistent this season\"?",
+        "question": "Her actions are not ______ with her words. Which word best fits the blank?",
         "options": [
-          "A. erratic",
-          "B. steady",
-          "C. sporadic",
-          "D. various"
+          "consistent",
+          "evaluating",
+          "obtaining",
+          "releasing"
+        ],
+        "answer": "A",
+        "explanation": "\"consistent with\" 意为“与...一致”，符合句意。"
+      },
+      {
+        "word": "obstacle",
+        "question": "\"Obstacle\" in \"overcome obstacles\" is closest in meaning to:",
+        "options": [
+          "advantage",
+          "hindrance",
+          "solution",
+          "opportunity"
         ],
         "answer": "B",
-        "explanation": "\"consistent\" 意为“持续的，一贯的”，与 \"steady\"（稳定的，持续的）意思相近。"
+        "explanation": "\"obstacle\" 意为“障碍，妨碍”，与 \"hindrance\" 意思相近。"
       }
     ],
     "last_question_fingerprints": [
-      "6cf8b2085ff2f1dd949f23fa109087b98e93fe5a3ab2459b287d251c92505f23",
-      "f49c404392e81ef3f8378b0de2cedc1a7d2663d24441b904dc973c2dace16f6a",
-      "2690657e5138fe04eab6d69e46fbe8a8e59050c4643741a1802b96180d412772",
-      "535a07ac6753323cb2c1f6dbcdd5c227630e73fa7dfdb6723787af3c0e230d69",
-      "d74484d82ca68b63f9d10a64e2c6471d1a06b6f0929b8ecd3dac9fbf7b250404",
-      "268d8b688d20e8314cb4ae627662c698686c6691e0160ab8b837682e614303e0",
-      "e3ff2abbf4f680e32a29f139372914ec60310dfc3dc8c8059fa0994f81fd6f49",
-      "6a38a2d2fc30c5e59e7dfa9e242487b0f94fa50d07b1f053e3b659d44e67eaa6",
-      "84f98c4676a83cce8a31047b93774397d90663763fa9e9eb3616dc593f7cc855",
-      "4588f13cd1b8ebdf2f6211adc35439dbdb84c10a13293a876a55341acaf48fb4"
+      "e21d1198298596ea913d0503f3eb93efe9389ac396c7f02de5c3ad728fb94994",
+      "5c02bee5e1411d01cb58f6913d6205589b8fed0fe040b2a3707fd59c279358a1",
+      "b72311c29648fc7382f531eadbc6c60bc073a91eadfca29332320c721299c3c1",
+      "a08d2166ff97e6ecbb9dab213afb47ef61096d850e91b6ba3dec5df70da0684e",
+      "d8aeb75ce6ce8ce47cff4de9fc65265aa22da6499a0b857c739fff153d328bf5",
+      "c14caea90b0a2baa157e568ea0d0b65174c676399c9942b3ad2178754de20f34",
+      "0b92b08839895861a856097fb7efe8338fe56576417eed6fca4e112efd34642c",
+      "dcc517ebffcbb9f13651b38776cfe4ce1b5682c1bbd720622908538c33bc5290",
+      "3d3aba312643f5ed28abb968ead4d23381d664ccadea7932b740f1dd2126e044",
+      "5f4196e0856e460a92864b4b0b16c73ee617c3773a85bf367360c950bed74f79"
     ]
   },
   "runs": {
@@ -392,6 +402,10 @@
     "2026-07-07": {
       "kind": "quiz-1",
       "file": "daily/2026/07/2026-07-07-quiz-1.md"
+    },
+    "2026-07-08": {
+      "kind": "quiz-2",
+      "file": "daily/2026/07/2026-07-08-quiz-2.md"
     }
   }
 }
