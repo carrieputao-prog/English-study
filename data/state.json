@@ -125,7 +125,17 @@
     "0b92b08839895861a856097fb7efe8338fe56576417eed6fca4e112efd34642c",
     "dcc517ebffcbb9f13651b38776cfe4ce1b5682c1bbd720622908538c33bc5290",
     "3d3aba312643f5ed28abb968ead4d23381d664ccadea7932b740f1dd2126e044",
-    "5f4196e0856e460a92864b4b0b16c73ee617c3773a85bf367360c950bed74f79"
+    "5f4196e0856e460a92864b4b0b16c73ee617c3773a85bf367360c950bed74f79",
+    "78099057a6f513d2b024bcb2c5cac340bb81a1167caf60efd537269cddd80354",
+    "5d646b78fb980912b6952f19db27d3be2fb9f6e6b4a97aad088a610f7963a929",
+    "2919ddbdb16a3ec9677458cac8b1c620315e7b86f61557c5392878cf03dd7a5d",
+    "34a941672f09709edfe7be9aacd337f57166f0abd5446add0172e68b5c596490",
+    "993b8ef277e601c3c0912c71c40e62192d15e8e866b7c5b1ca0a92ce77b68a67",
+    "2566c1c5546208819442e110fdd18dcfdd5aef1ec90fadbf40a4575cd64f7197",
+    "954de18e4828e53abc9f73f6e836c4f8caa801a243b38b5cb67a70fb75e0886b",
+    "c7c56e5e245286dd6238a6869f556b87e6fcbd82a1f73fdd4d4cdf23bc0508e5",
+    "f251c0a7ac5dc86c4107def412f2417857ba89cd8905dce7bb4fc6baeda7c56d",
+    "727adeac099558673e4624f826c8cba9091ba5e580e490d63b782f0f2bd6787e"
   ],
   "cycle": {
     "id": "2026-07-09",
@@ -171,8 +181,140 @@
         "translation": "然而"
       }
     ],
-    "previous_questions": [],
-    "last_question_fingerprints": []
+    "previous_questions": [
+      {
+        "word": "identify",
+        "question": "The police asked the witness to _______ the suspect from a lineup.",
+        "options": [
+          "A. identify",
+          "B. signify",
+          "C. modify",
+          "D. clarify"
+        ],
+        "answer": "A",
+        "explanation": "Identify意为认出、鉴定，符合句意。"
+      },
+      {
+        "word": "accessible",
+        "question": "Which of the following best describes an \"accessible website\"?",
+        "options": [
+          "A. 一个难以访问的网站",
+          "B. 一个容易被攻击的网站",
+          "C. 一个易于访问的网站",
+          "D. 一个内容丰富的网站"
+        ],
+        "answer": "C",
+        "explanation": "Accessible意为易接近的、可进入的，所以accessible website是易于访问的网站。"
+      },
+      {
+        "word": "however",
+        "question": "Which sentence uses \"however\" correctly to show contrast?",
+        "options": [
+          "A. He was tired, however, he continued working.",
+          "B. He was tired; however, he continued working.",
+          "C. He was tired. However he continued working.",
+          "D. He was tired however he continued working."
+        ],
+        "answer": "B",
+        "explanation": "However作连词表示转折时，常放在分号或句号后，并用逗号隔开。"
+      },
+      {
+        "word": "allocate",
+        "question": "Which sentence uses \"allocate\" correctly?",
+        "options": [
+          "A. The manager decided to allocate some tasks to the new team members.",
+          "B. She wanted to allocate her friend to the party.",
+          "C. He can allocate quickly through the forest.",
+          "D. They tried to allocate the lost key."
+        ],
+        "answer": "A",
+        "explanation": "Allocate意为分配、分派，A选项用法正确。"
+      },
+      {
+        "word": "beneficial",
+        "question": "Regular exercise is very _______ for your health.",
+        "options": [
+          "A. detrimental",
+          "B. harmful",
+          "C. beneficial",
+          "D. negative"
+        ],
+        "answer": "C",
+        "explanation": "Beneficial意为有益的、有利的，符合句意。"
+      },
+      {
+        "word": "evidence",
+        "question": "There is no _______ to support his claim.",
+        "options": [
+          "A. evidences",
+          "B. an evidence",
+          "C. evidence",
+          "D. some evidence"
+        ],
+        "answer": "C",
+        "explanation": "Evidence是不可数名词，不能用复数形式或与不定冠词a/an连用。"
+      },
+      {
+        "word": "accommodate",
+        "question": "The hotel can _______ up to 200 guests.",
+        "options": [
+          "A. recommend",
+          "B. accommodate",
+          "C. communicate",
+          "D. nominate"
+        ],
+        "answer": "B",
+        "explanation": "Accommodate意为容纳或提供住宿，符合句意。"
+      },
+      {
+        "word": "furthermore",
+        "question": "The house is spacious and modern; _______, it has a beautiful garden.",
+        "options": [
+          "A. therefore",
+          "B. however",
+          "C. furthermore",
+          "D. despite"
+        ],
+        "answer": "C",
+        "explanation": "Furthermore意为此外、而且，用于补充信息。"
+      },
+      {
+        "word": "abstract",
+        "question": "What is the best Chinese translation for \"abstract concept\"?",
+        "options": [
+          "A. 详细的概念",
+          "B. 抽象的概念",
+          "C. 具体的概念",
+          "D. 复杂的情节"
+        ],
+        "answer": "B",
+        "explanation": "Abstract意为抽象的，因此abstract concept是抽象的概念。"
+      },
+      {
+        "word": "essential",
+        "question": "\"这是保持健康的必要条件。\" 的最佳英译是？",
+        "options": [
+          "A. This is an extra condition for staying healthy.",
+          "B. This is an essential condition for staying healthy.",
+          "C. This is a complex condition for staying healthy.",
+          "D. This is a temporary condition for staying healthy."
+        ],
+        "answer": "B",
+        "explanation": "Essential意为必要的、本质的，符合句意。"
+      }
+    ],
+    "last_question_fingerprints": [
+      "78099057a6f513d2b024bcb2c5cac340bb81a1167caf60efd537269cddd80354",
+      "5d646b78fb980912b6952f19db27d3be2fb9f6e6b4a97aad088a610f7963a929",
+      "2919ddbdb16a3ec9677458cac8b1c620315e7b86f61557c5392878cf03dd7a5d",
+      "34a941672f09709edfe7be9aacd337f57166f0abd5446add0172e68b5c596490",
+      "993b8ef277e601c3c0912c71c40e62192d15e8e866b7c5b1ca0a92ce77b68a67",
+      "2566c1c5546208819442e110fdd18dcfdd5aef1ec90fadbf40a4575cd64f7197",
+      "954de18e4828e53abc9f73f6e836c4f8caa801a243b38b5cb67a70fb75e0886b",
+      "c7c56e5e245286dd6238a6869f556b87e6fcbd82a1f73fdd4d4cdf23bc0508e5",
+      "f251c0a7ac5dc86c4107def412f2417857ba89cd8905dce7bb4fc6baeda7c56d",
+      "727adeac099558673e4624f826c8cba9091ba5e580e490d63b782f0f2bd6787e"
+    ]
   },
   "runs": {
     "2026-06-18": {
@@ -238,6 +380,10 @@
     "2026-07-09": {
       "kind": "story",
       "file": "daily/2026/07/2026-07-09-story.md"
+    },
+    "2026-07-10": {
+      "kind": "quiz-1",
+      "file": "daily/2026/07/2026-07-10-quiz-1.md"
     }
   }
 }
