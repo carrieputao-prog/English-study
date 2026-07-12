@@ -11,19 +11,29 @@
     "accommodate",
     "evidence",
     "essential",
-    "however"
+    "however",
+    "distinguish",
+    "participate",
+    "concept",
+    "abandon",
+    "involve",
+    "characteristic",
+    "insight",
+    "adapt",
+    "current",
+    "resolve"
   ],
   "last_story_words": [
-    "allocate",
-    "abstract",
-    "identify",
-    "beneficial",
-    "furthermore",
-    "accessible",
-    "accommodate",
-    "evidence",
-    "essential",
-    "however"
+    "distinguish",
+    "participate",
+    "concept",
+    "abandon",
+    "involve",
+    "characteristic",
+    "insight",
+    "adapt",
+    "current",
+    "resolve"
   ],
   "used_question_fingerprints": [
     "099818395d91fc2feff66c93ecf0ed80e8e6cd501000b5aa4a08121ee957be75",
@@ -148,183 +158,51 @@
     "d829b326122d33e380787bef2b11ab969d405ed9143035e24e0ceef8598b3284"
   ],
   "cycle": {
-    "id": "2026-07-09",
+    "id": "2026-07-13",
     "words": [
       {
-        "word": "allocate",
-        "translation": "分配，分派"
+        "word": "distinguish",
+        "translation": "区别，辨别"
       },
       {
-        "word": "abstract",
-        "translation": "抽象的"
+        "word": "participate",
+        "translation": "参与，参加"
       },
       {
-        "word": "identify",
-        "translation": "认出，鉴定；确认"
+        "word": "concept",
+        "translation": "概念，观念"
       },
       {
-        "word": "beneficial",
-        "translation": "有益的，有利的"
+        "word": "abandon",
+        "translation": "放弃；遗弃"
       },
       {
-        "word": "furthermore",
-        "translation": "此外，而且"
+        "word": "involve",
+        "translation": "包含；牵涉"
       },
       {
-        "word": "accessible",
-        "translation": "易接近的，可进入的"
+        "word": "characteristic",
+        "translation": "特征，特色"
       },
       {
-        "word": "accommodate",
-        "translation": "容纳；提供住宿"
+        "word": "insight",
+        "translation": "洞察力，见识"
       },
       {
-        "word": "evidence",
-        "translation": "证据，证明"
+        "word": "adapt",
+        "translation": "适应；改编"
       },
       {
-        "word": "essential",
-        "translation": "必要的，本质的"
+        "word": "current",
+        "translation": "当前的，现在的 (n.) 水流，电流"
       },
       {
-        "word": "however",
-        "translation": "然而"
+        "word": "resolve",
+        "translation": "决定；解决（问题）"
       }
     ],
-    "previous_questions": [
-      {
-        "word": "evidence",
-        "question": "The lawyer presented strong _______ to the jury, hoping to win the case.",
-        "options": [
-          "A) opinions",
-          "B) doubts",
-          "C) evidence",
-          "D) rumors"
-        ],
-        "answer": "C",
-        "explanation": "\"evidence\" 意为证据，在此句中指律师向陪审团提供有力证据。"
-      },
-      {
-        "word": "abstract",
-        "question": "Which word is an antonym for \"abstract\"?",
-        "options": [
-          "A) conceptual",
-          "B) concrete",
-          "C) theoretical",
-          "D) vague"
-        ],
-        "answer": "B",
-        "explanation": "\"abstract\" 意为抽象的，其反义词是 \"concrete\"（具体的）。"
-      },
-      {
-        "word": "allocate",
-        "question": "The university decided to _______ more funds to the science department this year.",
-        "options": [
-          "A) detach",
-          "B) donate",
-          "C) allocate",
-          "D) subtract"
-        ],
-        "answer": "C",
-        "explanation": "\"allocate\" 意为分配，在此句中指大学决定将更多资金分配给科学系。"
-      },
-      {
-        "word": "accessible",
-        "question": "The new building design ensures that all areas are easily _______ to wheelchair users.",
-        "options": [
-          "A) invisible",
-          "B) inaccessible",
-          "C) accessible",
-          "D) remote"
-        ],
-        "answer": "C",
-        "explanation": "\"accessible\" 意为易接近的，可进入的，在此句中指建筑的所有区域都方便轮椅使用者进入。"
-      },
-      {
-        "word": "beneficial",
-        "question": "What does it mean if something is \"beneficial\"?",
-        "options": [
-          "A) It causes harm.",
-          "B) It has a negative impact.",
-          "C) It provides advantages or is helpful.",
-          "D) It is irrelevant."
-        ],
-        "answer": "C",
-        "explanation": "\"beneficial\" 意为有益的，有利的，因此它提供优势或有帮助。"
-      },
-      {
-        "word": "identify",
-        "question": "It is important to _______ the root cause of the problem to find an effective solution.",
-        "options": [
-          "A) ignore",
-          "B) disguise",
-          "C) identify",
-          "D) overlook"
-        ],
-        "answer": "C",
-        "explanation": "\"identify\" 意为确认、查明，在此句中指查明问题的根本原因。"
-      },
-      {
-        "word": "furthermore",
-        "question": "The new policy will reduce costs; _______, it will improve efficiency.",
-        "options": [
-          "A) nevertheless",
-          "B) although",
-          "C) furthermore",
-          "D) despite"
-        ],
-        "answer": "C",
-        "explanation": "\"furthermore\" 意为此外、而且，用于连接并补充信息。"
-      },
-      {
-        "word": "however",
-        "question": "I enjoy hiking; _______, I prefer to do it in cooler weather.",
-        "options": [
-          "A) in addition",
-          "B) therefore",
-          "C) however",
-          "D) similarly"
-        ],
-        "answer": "C",
-        "explanation": "\"however\" 意为然而，在此句中表示转折，指出偏好。"
-      },
-      {
-        "word": "essential",
-        "question": "Which of the following is NOT an \"essential\" element for plant growth?",
-        "options": [
-          "A) Sunlight",
-          "B) Water",
-          "C) Soil",
-          "D) Decoration"
-        ],
-        "answer": "D",
-        "explanation": "\"essential\" 意为必要的，装饰品（decoration）对于植物生长来说不是必要的元素。"
-      },
-      {
-        "word": "accommodate",
-        "question": "The small café cannot _______ large groups of people during peak hours.",
-        "options": [
-          "A) refuse",
-          "B) reject",
-          "C) accommodate",
-          "D) expel"
-        ],
-        "answer": "C",
-        "explanation": "\"accommodate\" 意为容纳，在此句中指咖啡馆无法容纳大量人群。"
-      }
-    ],
-    "last_question_fingerprints": [
-      "2ddb48e97d512f80cc2f97568a1cca32954bf7096d535f3c265e0d34abaea47b",
-      "9e6dd73a4cd63ce8b994ed0dc3e502ab9ef609378a1fa7eeaf5128e6dbcc2d05",
-      "8087a56c1600f973391691f242b7327a5617dae85e270d5344969c80619c0a94",
-      "e0fb93165d225cf2c5140bc2f8918966324698f307c679545415af34211a82a3",
-      "56bea9a45f1b041a822ad4513b075739514179b7fe43579ea7b6c4ef967969b6",
-      "95a2493ec1df7257de5b302f9c8273c8244fc56b182bd88cbd0505425f016a97",
-      "1534b1421e3a012d103ed4c64ddf505a4dd163877ec548875ea096d197bfbde0",
-      "6f37f0707062ffcb060dd20abf0c5655906a8495eb1044c6d59d8d919e71bd89",
-      "3a4ba575bdb916bda40b96c4e492811938b913740d52d44e333efeb13b887f1f",
-      "d829b326122d33e380787bef2b11ab969d405ed9143035e24e0ceef8598b3284"
-    ]
+    "previous_questions": [],
+    "last_question_fingerprints": []
   },
   "runs": {
     "2026-06-18": {
@@ -398,6 +276,10 @@
     "2026-07-11": {
       "kind": "quiz-2",
       "file": "daily/2026/07/2026-07-11-quiz-2.md"
+    },
+    "2026-07-13": {
+      "kind": "story",
+      "file": "daily/2026/07/2026-07-13-story.md"
     }
   }
 }
