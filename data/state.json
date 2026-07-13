@@ -155,7 +155,17 @@
     "1534b1421e3a012d103ed4c64ddf505a4dd163877ec548875ea096d197bfbde0",
     "6f37f0707062ffcb060dd20abf0c5655906a8495eb1044c6d59d8d919e71bd89",
     "3a4ba575bdb916bda40b96c4e492811938b913740d52d44e333efeb13b887f1f",
-    "d829b326122d33e380787bef2b11ab969d405ed9143035e24e0ceef8598b3284"
+    "d829b326122d33e380787bef2b11ab969d405ed9143035e24e0ceef8598b3284",
+    "9143f4f5696f725ac0abf2ca5fd0cd099d327cbe0c48f86a629744a5dcdda5b5",
+    "c44359dd71ed445464a63e367820a13a396ef650c5354e5424cf8bde041c71f7",
+    "144e16474a3c77f5ecd06decab548b879f65fcf54f5b855971e513f7a0dd36e4",
+    "fadaafe38b3420b462d5d8d79af6b81700860e5547271ddaffbb7c57529b4f23",
+    "f2ea786c210fb066f29157c6d2bf562015a80c7f361468cdb5b2c538852ed216",
+    "e456747abb89f91aa1fc20d075b33181a7d7e03f8001e08b894a6b8945d1bf62",
+    "0314f5f2fdd3d080972a2d50d6b4b26d5490d97cd86f51860401a761a9baef9b",
+    "b9c2401dfea34f4b72ff20da119c97d059a4329c0cac2e73213d535652c583ea",
+    "fddfa792c960aed3c6660db30d1359c28e1f8c620c90d65bcbc880a63f713424",
+    "b976af2dbc879759bc00b5761754409bad58dd3be7ea381002cb59e857184df6"
   ],
   "cycle": {
     "id": "2026-07-13",
@@ -201,8 +211,140 @@
         "translation": "决定；解决（问题）"
       }
     ],
-    "previous_questions": [],
-    "last_question_fingerprints": []
+    "previous_questions": [
+      {
+        "word": "abandon",
+        "question": "哪个词最能表达“放弃”的意思？",
+        "options": [
+          "A) release",
+          "B) preserve",
+          "C) abandon",
+          "D) maintain"
+        ],
+        "answer": "C",
+        "explanation": "'abandon' 的意思是“放弃，遗弃”。"
+      },
+      {
+        "word": "characteristic",
+        "question": "What is the meaning of \"characteristic\"?",
+        "options": [
+          "A) 关键",
+          "B) 特征",
+          "C) 组成",
+          "D) 优点"
+        ],
+        "answer": "B",
+        "explanation": "'characteristic' 的意思是“特征，特色”。"
+      },
+      {
+        "word": "adapt",
+        "question": "哪个词可以表示“适应新环境”中的“适应”？",
+        "options": [
+          "A) adjust",
+          "B) conform",
+          "C) adapt",
+          "D) regulate"
+        ],
+        "answer": "C",
+        "explanation": "'adapt to' 意为“适应（新环境、新情况）”。"
+      },
+      {
+        "word": "concept",
+        "question": "Which of the following best describes the word \"concept\"?",
+        "options": [
+          "A) 结论",
+          "B) 概念",
+          "C) 证明",
+          "D) 方法"
+        ],
+        "answer": "B",
+        "explanation": "'concept' 的意思是“概念，观念”。"
+      },
+      {
+        "word": "involve",
+        "question": "Which sentence uses \"involve\" correctly?",
+        "options": [
+          "A) His job involves a lot of travelling.",
+          "B) He involved in the project.",
+          "C) She involves in too much work.",
+          "D) The movie involved them greatly."
+        ],
+        "answer": "A",
+        "explanation": "'involve' 作为及物动词，常用于 'involve sth' 或 'involve doing sth'，意为“包含，牵涉”。"
+      },
+      {
+        "word": "insight",
+        "question": "Her speech offered a deep ________ into the challenges of modern parenting.",
+        "options": [
+          "A) view",
+          "B) opinion",
+          "C) insight",
+          "D) thought"
+        ],
+        "answer": "C",
+        "explanation": "'insight' 意为“洞察力，深刻的见解”，常与 'into' 搭配。"
+      },
+      {
+        "word": "resolve",
+        "question": "The committee met to ________ the ongoing dispute.",
+        "options": [
+          "A) solve",
+          "B) settle",
+          "C) determine",
+          "D) resolve"
+        ],
+        "answer": "D",
+        "explanation": "'resolve' 意为“解决（问题、争端）”。"
+      },
+      {
+        "word": "current",
+        "question": "In which sentence is \"current\" used as an adjective?",
+        "options": [
+          "A) The strong current swept the boat downstream.",
+          "B) We need to address the current issues.",
+          "C) She felt a powerful electric current.",
+          "D) Divert the current of public opinion."
+        ],
+        "answer": "B",
+        "explanation": "在选项B中，'current' 修饰名词 'issues'，作形容词，意为“当前的”。其他选项中 'current' 作名词。"
+      },
+      {
+        "word": "distinguish",
+        "question": "It is often difficult to ________ right from wrong.",
+        "options": [
+          "A) choose",
+          "B) prefer",
+          "C) distinguish",
+          "D) select"
+        ],
+        "answer": "C",
+        "explanation": "'distinguish A from B' 意为“区分A和B”。"
+      },
+      {
+        "word": "participate",
+        "question": "Everyone is encouraged to ________ in the discussion.",
+        "options": [
+          "A) join",
+          "B) take",
+          "C) involve",
+          "D) participate"
+        ],
+        "answer": "D",
+        "explanation": "'participate in' 意为“参与某事”。"
+      }
+    ],
+    "last_question_fingerprints": [
+      "9143f4f5696f725ac0abf2ca5fd0cd099d327cbe0c48f86a629744a5dcdda5b5",
+      "c44359dd71ed445464a63e367820a13a396ef650c5354e5424cf8bde041c71f7",
+      "144e16474a3c77f5ecd06decab548b879f65fcf54f5b855971e513f7a0dd36e4",
+      "fadaafe38b3420b462d5d8d79af6b81700860e5547271ddaffbb7c57529b4f23",
+      "f2ea786c210fb066f29157c6d2bf562015a80c7f361468cdb5b2c538852ed216",
+      "e456747abb89f91aa1fc20d075b33181a7d7e03f8001e08b894a6b8945d1bf62",
+      "0314f5f2fdd3d080972a2d50d6b4b26d5490d97cd86f51860401a761a9baef9b",
+      "b9c2401dfea34f4b72ff20da119c97d059a4329c0cac2e73213d535652c583ea",
+      "fddfa792c960aed3c6660db30d1359c28e1f8c620c90d65bcbc880a63f713424",
+      "b976af2dbc879759bc00b5761754409bad58dd3be7ea381002cb59e857184df6"
+    ]
   },
   "runs": {
     "2026-06-18": {
@@ -280,6 +422,10 @@
     "2026-07-13": {
       "kind": "story",
       "file": "daily/2026/07/2026-07-13-story.md"
+    },
+    "2026-07-14": {
+      "kind": "quiz-1",
+      "file": "daily/2026/07/2026-07-14-quiz-1.md"
     }
   }
 }
