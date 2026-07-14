@@ -165,7 +165,17 @@
     "0314f5f2fdd3d080972a2d50d6b4b26d5490d97cd86f51860401a761a9baef9b",
     "b9c2401dfea34f4b72ff20da119c97d059a4329c0cac2e73213d535652c583ea",
     "fddfa792c960aed3c6660db30d1359c28e1f8c620c90d65bcbc880a63f713424",
-    "b976af2dbc879759bc00b5761754409bad58dd3be7ea381002cb59e857184df6"
+    "b976af2dbc879759bc00b5761754409bad58dd3be7ea381002cb59e857184df6",
+    "0efb11ee328d36908ee0eae65daddd806797913431684572943b29356864cc36",
+    "6d068f96a645a873658fcc7170b13e1fefff0c749be9aa46a5e9f6e2f529e3b6",
+    "b54259cd0a92cf7b0e56258075f1fa81cab8416dd34b7bfd944e0aa6bec2f4dc",
+    "ffc1fc19227d57a7bb0f413a9b2e8c4e9acec2bdcc03a6e6c63710071836fabd",
+    "875dc27ad24ff77958114c79ad8d96e3e774802a8ad7ea5737fab4bbccc4d37c",
+    "a0d7d6c73afcbd03665aad0974233855732f66579fafc8203867b404d66950a7",
+    "bae1199693036e95939758db8faee62ecdd6f823cbbe1002c9aad131d4e17fc8",
+    "683c0707d8c01e8886dbb4bcd29d01183d65d22a2ad72dcf575210227136a9a9",
+    "f5d3add18871a967480eb6c52120cab978c9708eb9f372a8c6c09a183a620ea3",
+    "7f355dd235a3ea2526e245287180f4849708f0e49baf8c37373f1842895b34c2"
   ],
   "cycle": {
     "id": "2026-07-13",
@@ -213,137 +223,137 @@
     ],
     "previous_questions": [
       {
-        "word": "abandon",
-        "question": "哪个词最能表达“放弃”的意思？",
+        "word": "insight",
+        "question": "\"洞察力\" 对应的英语单词是：",
         "options": [
-          "A) release",
-          "B) preserve",
-          "C) abandon",
-          "D) maintain"
+          "A. perception",
+          "B. overview",
+          "C. insight",
+          "D. observation"
         ],
         "answer": "C",
-        "explanation": "'abandon' 的意思是“放弃，遗弃”。"
-      },
-      {
-        "word": "characteristic",
-        "question": "What is the meaning of \"characteristic\"?",
-        "options": [
-          "A) 关键",
-          "B) 特征",
-          "C) 组成",
-          "D) 优点"
-        ],
-        "answer": "B",
-        "explanation": "'characteristic' 的意思是“特征，特色”。"
+        "explanation": "Insight 的意思是洞察力，与“洞察力”直接对应。"
       },
       {
         "word": "adapt",
-        "question": "哪个词可以表示“适应新环境”中的“适应”？",
+        "question": "The director decided to ________ the novel for the big screen.",
         "options": [
-          "A) adjust",
-          "B) conform",
-          "C) adapt",
-          "D) regulate"
+          "A. adopt",
+          "B. adjust",
+          "C. adapt",
+          "D. adhere"
         ],
         "answer": "C",
-        "explanation": "'adapt to' 意为“适应（新环境、新情况）”。"
-      },
-      {
-        "word": "concept",
-        "question": "Which of the following best describes the word \"concept\"?",
-        "options": [
-          "A) 结论",
-          "B) 概念",
-          "C) 证明",
-          "D) 方法"
-        ],
-        "answer": "B",
-        "explanation": "'concept' 的意思是“概念，观念”。"
+        "explanation": "Adapt 意为改编，在此语境中指将小说改编成电影。"
       },
       {
         "word": "involve",
-        "question": "Which sentence uses \"involve\" correctly?",
+        "question": "The job will ________ frequent travel.",
         "options": [
-          "A) His job involves a lot of travelling.",
-          "B) He involved in the project.",
-          "C) She involves in too much work.",
-          "D) The movie involved them greatly."
-        ],
-        "answer": "A",
-        "explanation": "'involve' 作为及物动词，常用于 'involve sth' 或 'involve doing sth'，意为“包含，牵涉”。"
-      },
-      {
-        "word": "insight",
-        "question": "Her speech offered a deep ________ into the challenges of modern parenting.",
-        "options": [
-          "A) view",
-          "B) opinion",
-          "C) insight",
-          "D) thought"
-        ],
-        "answer": "C",
-        "explanation": "'insight' 意为“洞察力，深刻的见解”，常与 'into' 搭配。"
-      },
-      {
-        "word": "resolve",
-        "question": "The committee met to ________ the ongoing dispute.",
-        "options": [
-          "A) solve",
-          "B) settle",
-          "C) determine",
-          "D) resolve"
-        ],
-        "answer": "D",
-        "explanation": "'resolve' 意为“解决（问题、争端）”。"
-      },
-      {
-        "word": "current",
-        "question": "In which sentence is \"current\" used as an adjective?",
-        "options": [
-          "A) The strong current swept the boat downstream.",
-          "B) We need to address the current issues.",
-          "C) She felt a powerful electric current.",
-          "D) Divert the current of public opinion."
+          "A. exclude",
+          "B. involve",
+          "C. release",
+          "D. neglect"
         ],
         "answer": "B",
-        "explanation": "在选项B中，'current' 修饰名词 'issues'，作形容词，意为“当前的”。其他选项中 'current' 作名词。"
+        "explanation": "Involve 在此句中表示“包含”或“涉及”，与语境相符。"
       },
       {
         "word": "distinguish",
-        "question": "It is often difficult to ________ right from wrong.",
+        "question": "选择最接近 \"distinguish\" 词义的选项。",
         "options": [
-          "A) choose",
-          "B) prefer",
-          "C) distinguish",
-          "D) select"
+          "A. differentiate",
+          "B. confuse",
+          "C. combine",
+          "D. overlook"
         ],
-        "answer": "C",
-        "explanation": "'distinguish A from B' 意为“区分A和B”。"
+        "answer": "A",
+        "explanation": "Distinguish 的意思是区别、辨别，与 differentiate 同义。"
+      },
+      {
+        "word": "resolve",
+        "question": "If you \"resolve to do something,\" what do you do?",
+        "options": [
+          "A. give up on doing it",
+          "B. firmly decide to do it",
+          "C. ask someone else to do it",
+          "D. postpone doing it"
+        ],
+        "answer": "B",
+        "explanation": "Resolve 作为动词有“决定”的意思，resolve to do something 表示坚定地决定做某事。"
+      },
+      {
+        "word": "current",
+        "question": "Which sentence uses \"current\" as a noun?",
+        "options": [
+          "A. What is your current address?",
+          "B. The strong current pulled the boat downstream.",
+          "C. We need to check the current situation.",
+          "D. He is keeping up with current events."
+        ],
+        "answer": "B",
+        "explanation": "在选项 B 中，current 作为名词表示水流，其他选项中 current 均作形容词。"
+      },
+      {
+        "word": "abandon",
+        "question": "To \"abandon ship\" means to:",
+        "options": [
+          "A. repair the ship",
+          "B. leave the ship permanently",
+          "C. clean the ship",
+          "D. take control of the ship"
+        ],
+        "answer": "B",
+        "explanation": "Abandon 的意思是放弃、遗弃，\"abandon ship\" 指永久地离开船只。"
+      },
+      {
+        "word": "concept",
+        "question": "“万有引力定律是一个重要的科学_______。” 空格处应填入哪个词？",
+        "options": [
+          "A. insight",
+          "B. concept",
+          "C. characteristic",
+          "D. current"
+        ],
+        "answer": "B",
+        "explanation": "这里指“科学概念”，因此 concept 是最合适的词。"
       },
       {
         "word": "participate",
-        "question": "Everyone is encouraged to ________ in the discussion.",
+        "question": "Which word is an antonym of \"participate\"?",
         "options": [
-          "A) join",
-          "B) take",
-          "C) involve",
-          "D) participate"
+          "A. join",
+          "B. withdraw",
+          "C. engage",
+          "D. contribute"
         ],
-        "answer": "D",
-        "explanation": "'participate in' 意为“参与某事”。"
+        "answer": "B",
+        "explanation": "Participate 意为参与，withdraw 意为退出，是其反义词。"
+      },
+      {
+        "word": "characteristic",
+        "question": "哪个词是 \"characteristic\" 的近义词？",
+        "options": [
+          "A. feature",
+          "B. flaw",
+          "C. similarity",
+          "D. standard"
+        ],
+        "answer": "A",
+        "explanation": "Characteristic 指特征、特色，feature 是其近义词。"
       }
     ],
     "last_question_fingerprints": [
-      "9143f4f5696f725ac0abf2ca5fd0cd099d327cbe0c48f86a629744a5dcdda5b5",
-      "c44359dd71ed445464a63e367820a13a396ef650c5354e5424cf8bde041c71f7",
-      "144e16474a3c77f5ecd06decab548b879f65fcf54f5b855971e513f7a0dd36e4",
-      "fadaafe38b3420b462d5d8d79af6b81700860e5547271ddaffbb7c57529b4f23",
-      "f2ea786c210fb066f29157c6d2bf562015a80c7f361468cdb5b2c538852ed216",
-      "e456747abb89f91aa1fc20d075b33181a7d7e03f8001e08b894a6b8945d1bf62",
-      "0314f5f2fdd3d080972a2d50d6b4b26d5490d97cd86f51860401a761a9baef9b",
-      "b9c2401dfea34f4b72ff20da119c97d059a4329c0cac2e73213d535652c583ea",
-      "fddfa792c960aed3c6660db30d1359c28e1f8c620c90d65bcbc880a63f713424",
-      "b976af2dbc879759bc00b5761754409bad58dd3be7ea381002cb59e857184df6"
+      "0efb11ee328d36908ee0eae65daddd806797913431684572943b29356864cc36",
+      "6d068f96a645a873658fcc7170b13e1fefff0c749be9aa46a5e9f6e2f529e3b6",
+      "b54259cd0a92cf7b0e56258075f1fa81cab8416dd34b7bfd944e0aa6bec2f4dc",
+      "ffc1fc19227d57a7bb0f413a9b2e8c4e9acec2bdcc03a6e6c63710071836fabd",
+      "875dc27ad24ff77958114c79ad8d96e3e774802a8ad7ea5737fab4bbccc4d37c",
+      "a0d7d6c73afcbd03665aad0974233855732f66579fafc8203867b404d66950a7",
+      "bae1199693036e95939758db8faee62ecdd6f823cbbe1002c9aad131d4e17fc8",
+      "683c0707d8c01e8886dbb4bcd29d01183d65d22a2ad72dcf575210227136a9a9",
+      "f5d3add18871a967480eb6c52120cab978c9708eb9f372a8c6c09a183a620ea3",
+      "7f355dd235a3ea2526e245287180f4849708f0e49baf8c37373f1842895b34c2"
     ]
   },
   "runs": {
@@ -426,6 +436,10 @@
     "2026-07-14": {
       "kind": "quiz-1",
       "file": "daily/2026/07/2026-07-14-quiz-1.md"
+    },
+    "2026-07-15": {
+      "kind": "quiz-2",
+      "file": "daily/2026/07/2026-07-15-quiz-2.md"
     }
   }
 }
