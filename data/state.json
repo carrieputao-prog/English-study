@@ -175,7 +175,17 @@
     "bae1199693036e95939758db8faee62ecdd6f823cbbe1002c9aad131d4e17fc8",
     "683c0707d8c01e8886dbb4bcd29d01183d65d22a2ad72dcf575210227136a9a9",
     "f5d3add18871a967480eb6c52120cab978c9708eb9f372a8c6c09a183a620ea3",
-    "7f355dd235a3ea2526e245287180f4849708f0e49baf8c37373f1842895b34c2"
+    "7f355dd235a3ea2526e245287180f4849708f0e49baf8c37373f1842895b34c2",
+    "b7c9335e88b36f03824ecea8385619e723e16dbd0dffe69c185cd5d3213a350a",
+    "7784cead5878539811a98f30d675c489da8bfa4e2642e616496be2468c62378f",
+    "1cfe5f08e25d3ee3d77a52d5d19dc674bd11d79b7d52d671c6cf3e3e3cd65c55",
+    "361d072e3463c69644f6859c217dd331cef4600e11f46dea03f6bfae1e56894c",
+    "ee608d192a972a3419189486065965b21bbb09501a87032b425d9d9aef9a14f3",
+    "efcc303fb1925b448aa77639258e455a610cc92dbe2c83be23cc9702b941acaa",
+    "3411d6404b3a126a6638ffd069e89ede63bce865d6ac435e1e86d468fdc8bc1f",
+    "792fd793a4e9c7dce39183fa6d90728fb741beb64c5bec990330a5af180f8dae",
+    "9bd0d6b6d6e052a1aef0ecb307ea422cff9987e6924bcfb58a9b4e197d49f573",
+    "300cf22833cc7b9331428671ff34b2046848f304ebafef434b2bfc540364ca24"
   ],
   "cycle": {
     "id": "2026-07-13",
@@ -223,137 +233,137 @@
     ],
     "previous_questions": [
       {
-        "word": "insight",
-        "question": "\"洞察力\" 对应的英语单词是：",
+        "word": "resolve",
+        "question": "The committee met to ________ the ongoing dispute.",
         "options": [
-          "A. perception",
-          "B. overview",
+          "A. complicate",
+          "B. ignore",
+          "C. discuss",
+          "D. resolve"
+        ],
+        "answer": "D",
+        "explanation": "resolve 作为动词意为“解决（问题或争端）”。"
+      },
+      {
+        "word": "involve",
+        "question": "Which sentence correctly uses the word \"involve\"?",
+        "options": [
+          "A. The recipe involves three eggs.",
+          "B. He involves in the party.",
+          "C. They involves a new idea.",
+          "D. We were involving to help."
+        ],
+        "answer": "A",
+        "explanation": "involve常用于指某事包含或需要某物作为组成部分，句型为 A involves B。"
+      },
+      {
+        "word": "current",
+        "question": "\"当前的趋势\" 的正确英语表达是：",
+        "options": [
+          "A. present trend",
+          "B. future trend",
+          "C. past trend",
+          "D. current trend"
+        ],
+        "answer": "D",
+        "explanation": "current 作为形容词意为“当前的，现在的”。"
+      },
+      {
+        "word": "concept",
+        "question": "A \"concept\" is primarily a/an:",
+        "options": [
+          "A. tangible object",
+          "B. abstract idea",
+          "C. physical law",
+          "D. historical event"
+        ],
+        "answer": "B",
+        "explanation": "concept 指的是抽象的观念或概念。"
+      },
+      {
+        "word": "characteristic",
+        "question": "Politeness is a common ________ of Japanese culture.",
+        "options": [
+          "A. aspect",
+          "B. characteristic",
+          "C. attribute",
+          "D. E. element"
+        ],
+        "answer": "B",
+        "explanation": "characteristic 指的是某个事物独有的、易于辨认的特征。"
+      },
+      {
+        "word": "insight",
+        "question": "Her deep ________ into human nature made her a great writer.",
+        "options": [
+          "A. view",
+          "B. glance",
           "C. insight",
           "D. observation"
         ],
         "answer": "C",
-        "explanation": "Insight 的意思是洞察力，与“洞察力”直接对应。"
-      },
-      {
-        "word": "adapt",
-        "question": "The director decided to ________ the novel for the big screen.",
-        "options": [
-          "A. adopt",
-          "B. adjust",
-          "C. adapt",
-          "D. adhere"
-        ],
-        "answer": "C",
-        "explanation": "Adapt 意为改编，在此语境中指将小说改编成电影。"
-      },
-      {
-        "word": "involve",
-        "question": "The job will ________ frequent travel.",
-        "options": [
-          "A. exclude",
-          "B. involve",
-          "C. release",
-          "D. neglect"
-        ],
-        "answer": "B",
-        "explanation": "Involve 在此句中表示“包含”或“涉及”，与语境相符。"
-      },
-      {
-        "word": "distinguish",
-        "question": "选择最接近 \"distinguish\" 词义的选项。",
-        "options": [
-          "A. differentiate",
-          "B. confuse",
-          "C. combine",
-          "D. overlook"
-        ],
-        "answer": "A",
-        "explanation": "Distinguish 的意思是区别、辨别，与 differentiate 同义。"
-      },
-      {
-        "word": "resolve",
-        "question": "If you \"resolve to do something,\" what do you do?",
-        "options": [
-          "A. give up on doing it",
-          "B. firmly decide to do it",
-          "C. ask someone else to do it",
-          "D. postpone doing it"
-        ],
-        "answer": "B",
-        "explanation": "Resolve 作为动词有“决定”的意思，resolve to do something 表示坚定地决定做某事。"
-      },
-      {
-        "word": "current",
-        "question": "Which sentence uses \"current\" as a noun?",
-        "options": [
-          "A. What is your current address?",
-          "B. The strong current pulled the boat downstream.",
-          "C. We need to check the current situation.",
-          "D. He is keeping up with current events."
-        ],
-        "answer": "B",
-        "explanation": "在选项 B 中，current 作为名词表示水流，其他选项中 current 均作形容词。"
-      },
-      {
-        "word": "abandon",
-        "question": "To \"abandon ship\" means to:",
-        "options": [
-          "A. repair the ship",
-          "B. leave the ship permanently",
-          "C. clean the ship",
-          "D. take control of the ship"
-        ],
-        "answer": "B",
-        "explanation": "Abandon 的意思是放弃、遗弃，\"abandon ship\" 指永久地离开船只。"
-      },
-      {
-        "word": "concept",
-        "question": "“万有引力定律是一个重要的科学_______。” 空格处应填入哪个词？",
-        "options": [
-          "A. insight",
-          "B. concept",
-          "C. characteristic",
-          "D. current"
-        ],
-        "answer": "B",
-        "explanation": "这里指“科学概念”，因此 concept 是最合适的词。"
+        "explanation": "insight 指的是对事物本质的深刻理解或洞察力。"
       },
       {
         "word": "participate",
-        "question": "Which word is an antonym of \"participate\"?",
+        "question": "What does it mean to \"participate in a competition\"?",
         "options": [
-          "A. join",
-          "B. withdraw",
-          "C. engage",
-          "D. contribute"
+          "A. 赢得比赛",
+          "B. 观看比赛",
+          "C. 参加比赛",
+          "D. 组织比赛"
         ],
-        "answer": "B",
-        "explanation": "Participate 意为参与，withdraw 意为退出，是其反义词。"
+        "answer": "C",
+        "explanation": "participate in something 意为“参与或参加某事”。"
       },
       {
-        "word": "characteristic",
-        "question": "哪个词是 \"characteristic\" 的近义词？",
+        "word": "abandon",
+        "question": "\"放弃希望\" 最合适的英语表达是：",
         "options": [
-          "A. feature",
-          "B. flaw",
-          "C. similarity",
-          "D. standard"
+          "A. give up hope",
+          "B. release hope",
+          "C. abandon hope",
+          "D. leave hope"
+        ],
+        "answer": "C",
+        "explanation": "abandon hope 是“放弃希望”的常见搭配。"
+      },
+      {
+        "word": "adapt",
+        "question": "It takes time for people to ________ to a new environment.",
+        "options": [
+          "A. adjust",
+          "B. adapt",
+          "C. apply",
+          "D. accustom"
+        ],
+        "answer": "B",
+        "explanation": "adapt to 意为“适应新的环境或条件”。"
+      },
+      {
+        "word": "distinguish",
+        "question": "It's hard to ________ between the identical twins.",
+        "options": [
+          "A. distinguish",
+          "B. identify",
+          "C. separate",
+          "D. compare"
         ],
         "answer": "A",
-        "explanation": "Characteristic 指特征、特色，feature 是其近义词。"
+        "explanation": "distinguish between 意为“区分、辨别”两者之间的不同。"
       }
     ],
     "last_question_fingerprints": [
-      "0efb11ee328d36908ee0eae65daddd806797913431684572943b29356864cc36",
-      "6d068f96a645a873658fcc7170b13e1fefff0c749be9aa46a5e9f6e2f529e3b6",
-      "b54259cd0a92cf7b0e56258075f1fa81cab8416dd34b7bfd944e0aa6bec2f4dc",
-      "ffc1fc19227d57a7bb0f413a9b2e8c4e9acec2bdcc03a6e6c63710071836fabd",
-      "875dc27ad24ff77958114c79ad8d96e3e774802a8ad7ea5737fab4bbccc4d37c",
-      "a0d7d6c73afcbd03665aad0974233855732f66579fafc8203867b404d66950a7",
-      "bae1199693036e95939758db8faee62ecdd6f823cbbe1002c9aad131d4e17fc8",
-      "683c0707d8c01e8886dbb4bcd29d01183d65d22a2ad72dcf575210227136a9a9",
-      "f5d3add18871a967480eb6c52120cab978c9708eb9f372a8c6c09a183a620ea3",
-      "7f355dd235a3ea2526e245287180f4849708f0e49baf8c37373f1842895b34c2"
+      "b7c9335e88b36f03824ecea8385619e723e16dbd0dffe69c185cd5d3213a350a",
+      "7784cead5878539811a98f30d675c489da8bfa4e2642e616496be2468c62378f",
+      "1cfe5f08e25d3ee3d77a52d5d19dc674bd11d79b7d52d671c6cf3e3e3cd65c55",
+      "361d072e3463c69644f6859c217dd331cef4600e11f46dea03f6bfae1e56894c",
+      "ee608d192a972a3419189486065965b21bbb09501a87032b425d9d9aef9a14f3",
+      "efcc303fb1925b448aa77639258e455a610cc92dbe2c83be23cc9702b941acaa",
+      "3411d6404b3a126a6638ffd069e89ede63bce865d6ac435e1e86d468fdc8bc1f",
+      "792fd793a4e9c7dce39183fa6d90728fb741beb64c5bec990330a5af180f8dae",
+      "9bd0d6b6d6e052a1aef0ecb307ea422cff9987e6924bcfb58a9b4e197d49f573",
+      "300cf22833cc7b9331428671ff34b2046848f304ebafef434b2bfc540364ca24"
     ]
   },
   "runs": {
@@ -440,6 +450,10 @@
     "2026-07-15": {
       "kind": "quiz-2",
       "file": "daily/2026/07/2026-07-15-quiz-2.md"
+    },
+    "2026-07-17": {
+      "kind": "quiz-1",
+      "file": "daily/2026/07/2026-07-17-quiz-1.md"
     }
   }
 }
