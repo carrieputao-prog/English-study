@@ -185,7 +185,17 @@
     "3411d6404b3a126a6638ffd069e89ede63bce865d6ac435e1e86d468fdc8bc1f",
     "792fd793a4e9c7dce39183fa6d90728fb741beb64c5bec990330a5af180f8dae",
     "9bd0d6b6d6e052a1aef0ecb307ea422cff9987e6924bcfb58a9b4e197d49f573",
-    "300cf22833cc7b9331428671ff34b2046848f304ebafef434b2bfc540364ca24"
+    "300cf22833cc7b9331428671ff34b2046848f304ebafef434b2bfc540364ca24",
+    "48b5530a7800c44a589fe703b658752dcebf3f819df74d1551a80cf46162b726",
+    "3b260a56c0ec26f884b6f86384c34394ae1ab4a102cd6931cd48cde7d3ad6788",
+    "1ae66e2dc87257b1e60fa05acf774f222474344df4e514cb7d2bc07522633a15",
+    "d4c9e1d78b7681e4deb0ac6e5ccc727fc7cae7853b29125377e00590c0a966ff",
+    "f235c35b2c46ddbfe665fa8c2f86ad2e8f125e431b38c2e73101012b415d8825",
+    "6aff8a7d3ea11e295672b795a041a1c779d5e8415f16209d053e4f2962d0e678",
+    "c79c90d3ab46731bf85d692bba04f3e51260cdab86956beeb7263cc4712843f0",
+    "602d6a81340f9f29fede0f93de37a108da3b0c8b0df381430b45b26843fdcfd7",
+    "126dd16e67bdf5e955bbc66f83615355ca53c4767db0fdfd6a800188fb5e1ecb",
+    "1e9f2de3ccaa41570f56a9bf61a9c8d9db0af4db8ef225df6aa128964cd33f2b"
   ],
   "cycle": {
     "id": "2026-07-13",
@@ -233,137 +243,137 @@
     ],
     "previous_questions": [
       {
-        "word": "resolve",
-        "question": "The committee met to ________ the ongoing dispute.",
+        "word": "participate",
+        "question": "Many students choose to ________ in extracurricular activities to enrich their school life.",
         "options": [
-          "A. complicate",
-          "B. ignore",
-          "C. discuss",
-          "D. resolve"
+          "A. decline",
+          "B. involve",
+          "C. participate",
+          "D. avoid"
         ],
-        "answer": "D",
-        "explanation": "resolve 作为动词意为“解决（问题或争端）”。"
+        "answer": "C",
+        "explanation": "\"participate in\" 意为“参与，参加”，符合句意。"
       },
       {
-        "word": "involve",
-        "question": "Which sentence correctly uses the word \"involve\"?",
+        "word": "resolve",
+        "question": "She made a firm ________ to finish her novel by the end of the year.",
         "options": [
-          "A. The recipe involves three eggs.",
-          "B. He involves in the party.",
-          "C. They involves a new idea.",
-          "D. We were involving to help."
+          "A. resolve",
+          "B. doubt",
+          "C. delay",
+          "D. issue"
         ],
         "answer": "A",
-        "explanation": "involve常用于指某事包含或需要某物作为组成部分，句型为 A involves B。"
-      },
-      {
-        "word": "current",
-        "question": "\"当前的趋势\" 的正确英语表达是：",
-        "options": [
-          "A. present trend",
-          "B. future trend",
-          "C. past trend",
-          "D. current trend"
-        ],
-        "answer": "D",
-        "explanation": "current 作为形容词意为“当前的，现在的”。"
-      },
-      {
-        "word": "concept",
-        "question": "A \"concept\" is primarily a/an:",
-        "options": [
-          "A. tangible object",
-          "B. abstract idea",
-          "C. physical law",
-          "D. historical event"
-        ],
-        "answer": "B",
-        "explanation": "concept 指的是抽象的观念或概念。"
-      },
-      {
-        "word": "characteristic",
-        "question": "Politeness is a common ________ of Japanese culture.",
-        "options": [
-          "A. aspect",
-          "B. characteristic",
-          "C. attribute",
-          "D. E. element"
-        ],
-        "answer": "B",
-        "explanation": "characteristic 指的是某个事物独有的、易于辨认的特征。"
-      },
-      {
-        "word": "insight",
-        "question": "Her deep ________ into human nature made her a great writer.",
-        "options": [
-          "A. view",
-          "B. glance",
-          "C. insight",
-          "D. observation"
-        ],
-        "answer": "C",
-        "explanation": "insight 指的是对事物本质的深刻理解或洞察力。"
-      },
-      {
-        "word": "participate",
-        "question": "What does it mean to \"participate in a competition\"?",
-        "options": [
-          "A. 赢得比赛",
-          "B. 观看比赛",
-          "C. 参加比赛",
-          "D. 组织比赛"
-        ],
-        "answer": "C",
-        "explanation": "participate in something 意为“参与或参加某事”。"
-      },
-      {
-        "word": "abandon",
-        "question": "\"放弃希望\" 最合适的英语表达是：",
-        "options": [
-          "A. give up hope",
-          "B. release hope",
-          "C. abandon hope",
-          "D. leave hope"
-        ],
-        "answer": "C",
-        "explanation": "abandon hope 是“放弃希望”的常见搭配。"
+        "explanation": "\"resolve\" 作为名词，意为“决心，决意”，符合句中做出坚定的决心的语境。"
       },
       {
         "word": "adapt",
-        "question": "It takes time for people to ________ to a new environment.",
+        "question": "The film director decided to ________ the best-selling novel into a screenplay for a wider audience.",
         "options": [
-          "A. adjust",
+          "A. invent",
           "B. adapt",
-          "C. apply",
-          "D. accustom"
+          "C. ignore",
+          "D. criticize"
         ],
         "answer": "B",
-        "explanation": "adapt to 意为“适应新的环境或条件”。"
+        "explanation": "\"adapt\" 意为“改编”，常用于将小说、剧本等改编成电影。"
+      },
+      {
+        "word": "current",
+        "question": "The powerful river ________ carried the small boat downstream rapidly.",
+        "options": [
+          "A. stream",
+          "B. flow",
+          "C. current",
+          "D. wave"
+        ],
+        "answer": "C",
+        "explanation": "\"current\" 作为名词意为“水流”，特指有方向和力量的水流，符合句意。"
       },
       {
         "word": "distinguish",
-        "question": "It's hard to ________ between the identical twins.",
+        "question": "Which of the following best describes the action of \"distinguish\"?",
         "options": [
-          "A. distinguish",
-          "B. identify",
-          "C. separate",
-          "D. compare"
+          "A. To mix things together",
+          "B. To identify differences between things",
+          "C. To ignore minor details",
+          "D. To group similar items"
+        ],
+        "answer": "B",
+        "explanation": "\"distinguish\" 意为“辨别，识别出不同”。"
+      },
+      {
+        "word": "characteristic",
+        "question": "A key ________ of a good leader is the ability to inspire and motivate team members.",
+        "options": [
+          "A. consequence",
+          "B. characteristic",
+          "C. drawback",
+          "D. limitation"
+        ],
+        "answer": "B",
+        "explanation": "\"characteristic\" 意为“特征，特色”，是描述领导者能力的关键词。"
+      },
+      {
+        "word": "insight",
+        "question": "The author's latest book offers profound ________ into the complexities of human relationships.",
+        "options": [
+          "A. doubt",
+          "B. insight",
+          "C. surface",
+          "D. prejudice"
+        ],
+        "answer": "B",
+        "explanation": "\"insight\" 意为“洞察力，见识”，符合对人际关系复杂性的深刻理解。"
+      },
+      {
+        "word": "concept",
+        "question": "创新通常始于一个新颖的________。 (Fill in the blank with the best English word)",
+        "options": [
+          "A. method",
+          "B. result",
+          "C. concept",
+          "D. process"
+        ],
+        "answer": "C",
+        "explanation": "\"concept\" 意为“概念，观念”，与“创新”和“新颖的”搭配合理。"
+      },
+      {
+        "word": "abandon",
+        "question": "Due to the sudden heavy rain, they had to ________ their plans for the outdoor picnic.",
+        "options": [
+          "A. continue",
+          "B. reconsider",
+          "C. abandon",
+          "D. improve"
+        ],
+        "answer": "C",
+        "explanation": "\"abandon\" 意为“放弃”，符合因下雨而不得不放弃野餐计划的语境。"
+      },
+      {
+        "word": "involve",
+        "question": "The director explained that the new play would ________ a large cast and crew. (Translate the underlined word)",
+        "options": [
+          "A. 包括",
+          "B. 避免",
+          "C. 简化",
+          "D. 分配"
         ],
         "answer": "A",
-        "explanation": "distinguish between 意为“区分、辨别”两者之间的不同。"
+        "explanation": "\"involve\" 在此句中意为“包含，涉及”，故选“包括”。"
       }
     ],
     "last_question_fingerprints": [
-      "b7c9335e88b36f03824ecea8385619e723e16dbd0dffe69c185cd5d3213a350a",
-      "7784cead5878539811a98f30d675c489da8bfa4e2642e616496be2468c62378f",
-      "1cfe5f08e25d3ee3d77a52d5d19dc674bd11d79b7d52d671c6cf3e3e3cd65c55",
-      "361d072e3463c69644f6859c217dd331cef4600e11f46dea03f6bfae1e56894c",
-      "ee608d192a972a3419189486065965b21bbb09501a87032b425d9d9aef9a14f3",
-      "efcc303fb1925b448aa77639258e455a610cc92dbe2c83be23cc9702b941acaa",
-      "3411d6404b3a126a6638ffd069e89ede63bce865d6ac435e1e86d468fdc8bc1f",
-      "792fd793a4e9c7dce39183fa6d90728fb741beb64c5bec990330a5af180f8dae",
-      "9bd0d6b6d6e052a1aef0ecb307ea422cff9987e6924bcfb58a9b4e197d49f573",
-      "300cf22833cc7b9331428671ff34b2046848f304ebafef434b2bfc540364ca24"
+      "48b5530a7800c44a589fe703b658752dcebf3f819df74d1551a80cf46162b726",
+      "3b260a56c0ec26f884b6f86384c34394ae1ab4a102cd6931cd48cde7d3ad6788",
+      "1ae66e2dc87257b1e60fa05acf774f222474344df4e514cb7d2bc07522633a15",
+      "d4c9e1d78b7681e4deb0ac6e5ccc727fc7cae7853b29125377e00590c0a966ff",
+      "f235c35b2c46ddbfe665fa8c2f86ad2e8f125e431b38c2e73101012b415d8825",
+      "6aff8a7d3ea11e295672b795a041a1c779d5e8415f16209d053e4f2962d0e678",
+      "c79c90d3ab46731bf85d692bba04f3e51260cdab86956beeb7263cc4712843f0",
+      "602d6a81340f9f29fede0f93de37a108da3b0c8b0df381430b45b26843fdcfd7",
+      "126dd16e67bdf5e955bbc66f83615355ca53c4767db0fdfd6a800188fb5e1ecb",
+      "1e9f2de3ccaa41570f56a9bf61a9c8d9db0af4db8ef225df6aa128964cd33f2b"
     ]
   },
   "runs": {
@@ -454,6 +464,10 @@
     "2026-07-17": {
       "kind": "quiz-1",
       "file": "daily/2026/07/2026-07-17-quiz-1.md"
+    },
+    "2026-07-18": {
+      "kind": "quiz-2",
+      "file": "daily/2026/07/2026-07-18-quiz-2.md"
     }
   }
 }
