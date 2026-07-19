@@ -21,19 +21,29 @@
     "insight",
     "adapt",
     "current",
-    "resolve"
+    "resolve",
+    "critical",
+    "release",
+    "alternative",
+    "consistent",
+    "attribute",
+    "adjust",
+    "impact",
+    "considerable",
+    "moreover",
+    "convey"
   ],
   "last_story_words": [
-    "distinguish",
-    "participate",
-    "concept",
-    "abandon",
-    "involve",
-    "characteristic",
-    "insight",
-    "adapt",
-    "current",
-    "resolve"
+    "critical",
+    "release",
+    "alternative",
+    "consistent",
+    "attribute",
+    "adjust",
+    "impact",
+    "considerable",
+    "moreover",
+    "convey"
   ],
   "used_question_fingerprints": [
     "099818395d91fc2feff66c93ecf0ed80e8e6cd501000b5aa4a08121ee957be75",
@@ -198,183 +208,51 @@
     "1e9f2de3ccaa41570f56a9bf61a9c8d9db0af4db8ef225df6aa128964cd33f2b"
   ],
   "cycle": {
-    "id": "2026-07-13",
+    "id": "2026-07-20",
     "words": [
       {
-        "word": "distinguish",
-        "translation": "区别，辨别"
+        "word": "critical",
+        "translation": "批评的；危急的；关键的"
       },
       {
-        "word": "participate",
-        "translation": "参与，参加"
+        "word": "release",
+        "translation": "释放；发布"
       },
       {
-        "word": "concept",
-        "translation": "概念，观念"
+        "word": "alternative",
+        "translation": "可供替代的 (n.) 替代品"
       },
       {
-        "word": "abandon",
-        "translation": "放弃；遗弃"
+        "word": "consistent",
+        "translation": "一致的，连贯的"
       },
       {
-        "word": "involve",
-        "translation": "包含；牵涉"
+        "word": "attribute",
+        "translation": "把...归因于 (n.) 属性，特征"
       },
       {
-        "word": "characteristic",
-        "translation": "特征，特色"
+        "word": "adjust",
+        "translation": "调整；适应"
       },
       {
-        "word": "insight",
-        "translation": "洞察力，见识"
+        "word": "impact",
+        "translation": "影响，作用；撞击"
       },
       {
-        "word": "adapt",
-        "translation": "适应；改编"
+        "word": "considerable",
+        "translation": "相当大的/多的"
       },
       {
-        "word": "current",
-        "translation": "当前的，现在的 (n.) 水流，电流"
+        "word": "moreover",
+        "translation": "此外，而且"
       },
       {
-        "word": "resolve",
-        "translation": "决定；解决（问题）"
+        "word": "convey",
+        "translation": "表达，传达（思想/感情）"
       }
     ],
-    "previous_questions": [
-      {
-        "word": "participate",
-        "question": "Many students choose to ________ in extracurricular activities to enrich their school life.",
-        "options": [
-          "A. decline",
-          "B. involve",
-          "C. participate",
-          "D. avoid"
-        ],
-        "answer": "C",
-        "explanation": "\"participate in\" 意为“参与，参加”，符合句意。"
-      },
-      {
-        "word": "resolve",
-        "question": "She made a firm ________ to finish her novel by the end of the year.",
-        "options": [
-          "A. resolve",
-          "B. doubt",
-          "C. delay",
-          "D. issue"
-        ],
-        "answer": "A",
-        "explanation": "\"resolve\" 作为名词，意为“决心，决意”，符合句中做出坚定的决心的语境。"
-      },
-      {
-        "word": "adapt",
-        "question": "The film director decided to ________ the best-selling novel into a screenplay for a wider audience.",
-        "options": [
-          "A. invent",
-          "B. adapt",
-          "C. ignore",
-          "D. criticize"
-        ],
-        "answer": "B",
-        "explanation": "\"adapt\" 意为“改编”，常用于将小说、剧本等改编成电影。"
-      },
-      {
-        "word": "current",
-        "question": "The powerful river ________ carried the small boat downstream rapidly.",
-        "options": [
-          "A. stream",
-          "B. flow",
-          "C. current",
-          "D. wave"
-        ],
-        "answer": "C",
-        "explanation": "\"current\" 作为名词意为“水流”，特指有方向和力量的水流，符合句意。"
-      },
-      {
-        "word": "distinguish",
-        "question": "Which of the following best describes the action of \"distinguish\"?",
-        "options": [
-          "A. To mix things together",
-          "B. To identify differences between things",
-          "C. To ignore minor details",
-          "D. To group similar items"
-        ],
-        "answer": "B",
-        "explanation": "\"distinguish\" 意为“辨别，识别出不同”。"
-      },
-      {
-        "word": "characteristic",
-        "question": "A key ________ of a good leader is the ability to inspire and motivate team members.",
-        "options": [
-          "A. consequence",
-          "B. characteristic",
-          "C. drawback",
-          "D. limitation"
-        ],
-        "answer": "B",
-        "explanation": "\"characteristic\" 意为“特征，特色”，是描述领导者能力的关键词。"
-      },
-      {
-        "word": "insight",
-        "question": "The author's latest book offers profound ________ into the complexities of human relationships.",
-        "options": [
-          "A. doubt",
-          "B. insight",
-          "C. surface",
-          "D. prejudice"
-        ],
-        "answer": "B",
-        "explanation": "\"insight\" 意为“洞察力，见识”，符合对人际关系复杂性的深刻理解。"
-      },
-      {
-        "word": "concept",
-        "question": "创新通常始于一个新颖的________。 (Fill in the blank with the best English word)",
-        "options": [
-          "A. method",
-          "B. result",
-          "C. concept",
-          "D. process"
-        ],
-        "answer": "C",
-        "explanation": "\"concept\" 意为“概念，观念”，与“创新”和“新颖的”搭配合理。"
-      },
-      {
-        "word": "abandon",
-        "question": "Due to the sudden heavy rain, they had to ________ their plans for the outdoor picnic.",
-        "options": [
-          "A. continue",
-          "B. reconsider",
-          "C. abandon",
-          "D. improve"
-        ],
-        "answer": "C",
-        "explanation": "\"abandon\" 意为“放弃”，符合因下雨而不得不放弃野餐计划的语境。"
-      },
-      {
-        "word": "involve",
-        "question": "The director explained that the new play would ________ a large cast and crew. (Translate the underlined word)",
-        "options": [
-          "A. 包括",
-          "B. 避免",
-          "C. 简化",
-          "D. 分配"
-        ],
-        "answer": "A",
-        "explanation": "\"involve\" 在此句中意为“包含，涉及”，故选“包括”。"
-      }
-    ],
-    "last_question_fingerprints": [
-      "48b5530a7800c44a589fe703b658752dcebf3f819df74d1551a80cf46162b726",
-      "3b260a56c0ec26f884b6f86384c34394ae1ab4a102cd6931cd48cde7d3ad6788",
-      "1ae66e2dc87257b1e60fa05acf774f222474344df4e514cb7d2bc07522633a15",
-      "d4c9e1d78b7681e4deb0ac6e5ccc727fc7cae7853b29125377e00590c0a966ff",
-      "f235c35b2c46ddbfe665fa8c2f86ad2e8f125e431b38c2e73101012b415d8825",
-      "6aff8a7d3ea11e295672b795a041a1c779d5e8415f16209d053e4f2962d0e678",
-      "c79c90d3ab46731bf85d692bba04f3e51260cdab86956beeb7263cc4712843f0",
-      "602d6a81340f9f29fede0f93de37a108da3b0c8b0df381430b45b26843fdcfd7",
-      "126dd16e67bdf5e955bbc66f83615355ca53c4767db0fdfd6a800188fb5e1ecb",
-      "1e9f2de3ccaa41570f56a9bf61a9c8d9db0af4db8ef225df6aa128964cd33f2b"
-    ]
+    "previous_questions": [],
+    "last_question_fingerprints": []
   },
   "runs": {
     "2026-06-18": {
@@ -468,6 +346,10 @@
     "2026-07-18": {
       "kind": "quiz-2",
       "file": "daily/2026/07/2026-07-18-quiz-2.md"
+    },
+    "2026-07-20": {
+      "kind": "story",
+      "file": "daily/2026/07/2026-07-20-story.md"
     }
   }
 }
