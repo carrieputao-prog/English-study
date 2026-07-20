@@ -205,7 +205,17 @@
     "c79c90d3ab46731bf85d692bba04f3e51260cdab86956beeb7263cc4712843f0",
     "602d6a81340f9f29fede0f93de37a108da3b0c8b0df381430b45b26843fdcfd7",
     "126dd16e67bdf5e955bbc66f83615355ca53c4767db0fdfd6a800188fb5e1ecb",
-    "1e9f2de3ccaa41570f56a9bf61a9c8d9db0af4db8ef225df6aa128964cd33f2b"
+    "1e9f2de3ccaa41570f56a9bf61a9c8d9db0af4db8ef225df6aa128964cd33f2b",
+    "45d74dbf63473cfe6395a879ef5f2b28fdb3306c6db5e2e5080ea3b42dcbac39",
+    "5b01eaa2a4180d8d4b5fd5e69a92c61c75ff7bae5bd030be18f78ba4c84481d0",
+    "129a2e41e5be618d9e0abee25d519bf6542c3878c30c930265c3d8f0c59f39bb",
+    "4c4521cdaa9bae53db8232c98ea07f93ce100d59ead207aa91b6ab344eaeb669",
+    "74d793587b31ef66724e0753545bd8fba848e85ab0cb25f4ae6a2830e6faf0e4",
+    "3140acf8417e4ccfd994a7b002464999135645733476fc4e2532d24ce95ba545",
+    "c3a3236ad21b3da4fead92d7fa8320cc53172bb1524f481705052bc1d68b2c34",
+    "25308675af90c87845f0d65cc60dfd4da8ca71e1f65add9bb4e9966395bb3318",
+    "40f527e34199ef3a0bb80f0bc87aa2748e30f5e731e61f222de83e673935ebb2",
+    "0c3669d0144062dc48a7222d44f91e58fa87f7fd8a02164f5d98e56360289d3c"
   ],
   "cycle": {
     "id": "2026-07-20",
@@ -251,8 +261,140 @@
         "translation": "表达，传达（思想/感情）"
       }
     ],
-    "previous_questions": [],
-    "last_question_fingerprints": []
+    "previous_questions": [
+      {
+        "word": "release",
+        "question": "Which of the following best translates \"新电影的发布日期\"?",
+        "options": [
+          "A. the new movie's launch date",
+          "B. the new movie's delivery date",
+          "C. the new movie's release date",
+          "D. the new movie's issue date"
+        ],
+        "answer": "C",
+        "explanation": "Release 作动词或名词时，常用于指电影、音乐、产品等的“发布”。"
+      },
+      {
+        "word": "moreover",
+        "question": "The new policy is designed to reduce pollution; _____, it aims to create more job opportunities.",
+        "options": [
+          "A. however",
+          "B. therefore",
+          "C. moreover",
+          "D. nevertheless"
+        ],
+        "answer": "C",
+        "explanation": "Moreover 意为“此外，而且”，用于添加额外的信息或论据。"
+      },
+      {
+        "word": "consistent",
+        "question": "Her actions are not _____ with her stated beliefs; they often contradict each other.",
+        "options": [
+          "A. relevant",
+          "B. consistent",
+          "C. coincident",
+          "D. comparable"
+        ],
+        "answer": "B",
+        "explanation": "Consistent with 意为“与……一致的”，符合句意。"
+      },
+      {
+        "word": "attribute",
+        "question": "The successful outcome of the project was largely _____ to the team's hard work.",
+        "options": [
+          "A. contributed",
+          "B. attributed",
+          "C. resulted",
+          "D. committed"
+        ],
+        "answer": "B",
+        "explanation": "Attribute to 意为“把……归因于”，符合句子表达因果关系的需求。"
+      },
+      {
+        "word": "considerable",
+        "question": "The company has invested a _____ amount of money in research and development.",
+        "options": [
+          "A. considerable",
+          "B. considerate",
+          "C. consulting",
+          "D. consuming"
+        ],
+        "answer": "A",
+        "explanation": "Considerable 意为“相当大的，相当多的”，符合句中形容金额的语境。"
+      },
+      {
+        "word": "adjust",
+        "question": "Which of the following best translates \"你需要调整你的计划以适应新的情况\"?",
+        "options": [
+          "A. You need to arrange your plan to suit the new situation.",
+          "B. You need to adapt your plan to suit the new situation.",
+          "C. You need to adjust your plan to suit the new situation.",
+          "D. You need to reform your plan to suit the new situation."
+        ],
+        "answer": "C",
+        "explanation": "Adjust 意为“调整”，常用于调整计划、设置等。"
+      },
+      {
+        "word": "convey",
+        "question": "She struggled to find the right words to _____ her true feelings to him.",
+        "options": [
+          "A. convey",
+          "B. confer",
+          "C. confirm",
+          "D. convince"
+        ],
+        "answer": "A",
+        "explanation": "Convey 意为“表达，传达（思想、感情、信息）”，符合句意。"
+      },
+      {
+        "word": "critical",
+        "question": "The doctor stated that the patient's condition was _____, requiring immediate surgery.",
+        "options": [
+          "A. casual",
+          "B. critical",
+          "C. calm",
+          "D. comfortable"
+        ],
+        "answer": "B",
+        "explanation": "Critical 在这里表示“危急的，严重的”，形容病人的状况。"
+      },
+      {
+        "word": "alternative",
+        "question": "We need to find an _____ solution to this problem, as the current one is not working.",
+        "options": [
+          "A. alternative",
+          "B. alterable",
+          "C. altering",
+          "D. altered"
+        ],
+        "answer": "A",
+        "explanation": "Alternative 作形容词意为“可供替代的”，修饰 solution。"
+      },
+      {
+        "word": "impact",
+        "question": "Climate change will have a significant _____ on the global economy and environment.",
+        "options": [
+          "A. impact",
+          "B. effect",
+          "C. influence",
+          "D. impression"
+        ],
+        "answer": "A",
+        "explanation": "Impact 作名词意为“影响，作用”，常用于描述重大影响。"
+      }
+    ],
+    "last_question_fingerprints": [
+      "45d74dbf63473cfe6395a879ef5f2b28fdb3306c6db5e2e5080ea3b42dcbac39",
+      "5b01eaa2a4180d8d4b5fd5e69a92c61c75ff7bae5bd030be18f78ba4c84481d0",
+      "129a2e41e5be618d9e0abee25d519bf6542c3878c30c930265c3d8f0c59f39bb",
+      "4c4521cdaa9bae53db8232c98ea07f93ce100d59ead207aa91b6ab344eaeb669",
+      "74d793587b31ef66724e0753545bd8fba848e85ab0cb25f4ae6a2830e6faf0e4",
+      "3140acf8417e4ccfd994a7b002464999135645733476fc4e2532d24ce95ba545",
+      "c3a3236ad21b3da4fead92d7fa8320cc53172bb1524f481705052bc1d68b2c34",
+      "25308675af90c87845f0d65cc60dfd4da8ca71e1f65add9bb4e9966395bb3318",
+      "40f527e34199ef3a0bb80f0bc87aa2748e30f5e731e61f222de83e673935ebb2",
+      "0c3669d0144062dc48a7222d44f91e58fa87f7fd8a02164f5d98e56360289d3c"
+    ]
   },
   "runs": {
     "2026-06-18": {
@@ -350,6 +492,10 @@
     "2026-07-20": {
       "kind": "story",
       "file": "daily/2026/07/2026-07-20-story.md"
+    },
+    "2026-07-21": {
+      "kind": "quiz-1",
+      "file": "daily/2026/07/2026-07-21-quiz-1.md"
     }
   }
 }
