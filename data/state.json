@@ -31,19 +31,29 @@
     "impact",
     "considerable",
     "moreover",
-    "convey"
+    "convey",
+    "maintain",
+    "inevitable",
+    "persist",
+    "commit",
+    "spontaneous",
+    "dedicate",
+    "consequently",
+    "strategy",
+    "proportion",
+    "meanwhile"
   ],
   "last_story_words": [
-    "critical",
-    "release",
-    "alternative",
-    "consistent",
-    "attribute",
-    "adjust",
-    "impact",
-    "considerable",
-    "moreover",
-    "convey"
+    "maintain",
+    "inevitable",
+    "persist",
+    "commit",
+    "spontaneous",
+    "dedicate",
+    "consequently",
+    "strategy",
+    "proportion",
+    "meanwhile"
   ],
   "used_question_fingerprints": [
     "099818395d91fc2feff66c93ecf0ed80e8e6cd501000b5aa4a08121ee957be75",
@@ -228,183 +238,51 @@
     "e8aca5cb2724ec72b2393d1b9a78888cf8e8ec5f4dbf7bcdca2756d5e676be61"
   ],
   "cycle": {
-    "id": "2026-07-20",
+    "id": "2026-07-23",
     "words": [
       {
-        "word": "critical",
-        "translation": "批评的；危急的；关键的"
+        "word": "maintain",
+        "translation": "维持；维修；主张"
       },
       {
-        "word": "release",
-        "translation": "释放；发布"
+        "word": "inevitable",
+        "translation": "不可避免的，必然的"
       },
       {
-        "word": "alternative",
-        "translation": "可供替代的 (n.) 替代品"
+        "word": "persist",
+        "translation": "坚持，持续"
       },
       {
-        "word": "consistent",
-        "translation": "一致的，连贯的"
+        "word": "commit",
+        "translation": "犯罪；承诺，把...交托"
       },
       {
-        "word": "attribute",
-        "translation": "把...归因于 (n.) 属性，特征"
+        "word": "spontaneous",
+        "translation": "自发的，无意识的"
       },
       {
-        "word": "adjust",
-        "translation": "调整；适应"
+        "word": "dedicate",
+        "translation": "致力于，奉献"
       },
       {
-        "word": "impact",
-        "translation": "影响，作用；撞击"
+        "word": "consequently",
+        "translation": "因此，结果"
       },
       {
-        "word": "considerable",
-        "translation": "相当大的/多的"
+        "word": "strategy",
+        "translation": "战略，策略"
       },
       {
-        "word": "moreover",
-        "translation": "此外，而且"
+        "word": "proportion",
+        "translation": "比例，部分"
       },
       {
-        "word": "convey",
-        "translation": "表达，传达（思想/感情）"
+        "word": "meanwhile",
+        "translation": "与此同时"
       }
     ],
-    "previous_questions": [
-      {
-        "word": "adjust",
-        "question": "When you move to a new country, you need to _____ to different customs and ways of life.",
-        "options": [
-          "A. resist",
-          "B. adjust",
-          "C. ignore",
-          "D. insist"
-        ],
-        "answer": "B",
-        "explanation": "Adjust在此句中意为“适应”。"
-      },
-      {
-        "word": "consistent",
-        "question": "Which word best describes a person who always tries their best and never gives up?",
-        "options": [
-          "A. inconsistent",
-          "B. sporadic",
-          "C. consistent",
-          "D. erratic"
-        ],
-        "answer": "C",
-        "explanation": "Consistent在此句中意为“始终如一的，坚持不懈的”。"
-      },
-      {
-        "word": "convey",
-        "question": "The artist used vibrant colors to _____ a sense of joy and optimism in her painting.",
-        "options": [
-          "A. conceal",
-          "B. obscure",
-          "C. convey",
-          "D. distort"
-        ],
-        "answer": "C",
-        "explanation": "Convey在此句中作动词，意为“表达，传达”。"
-      },
-      {
-        "word": "moreover",
-        "question": "Which of the following best translates \"除了这些，他的演讲还非常鼓舞人心\"?",
-        "options": [
-          "A. Beside these, his speech was very inspiring.",
-          "B. Moreover, his speech was very inspiring.",
-          "C. Despite these, his speech was very inspiring.",
-          "D. However, his speech was very inspiring."
-        ],
-        "answer": "B",
-        "explanation": "Moreover意为“此外，而且”，用于引出额外的信息或论点，符合句意。"
-      },
-      {
-        "word": "alternative",
-        "question": "If the main power fails, we have an _____ power source.",
-        "options": [
-          "A. exclusive",
-          "B. primary",
-          "C. alternative",
-          "D. permanent"
-        ],
-        "answer": "C",
-        "explanation": "Alternative在此句中作形容词，意为“备用的，可供选择的”。"
-      },
-      {
-        "word": "critical",
-        "question": "Making a _____ decision quickly is essential for the success of the project.",
-        "options": [
-          "A. optional",
-          "B. critical",
-          "C. minor",
-          "D. redundant"
-        ],
-        "answer": "B",
-        "explanation": "Critical在此句中意为“关键的，至关重要的”。"
-      },
-      {
-        "word": "attribute",
-        "question": "Patience is a key _____ for anyone working in customer service.",
-        "options": [
-          "A. setback",
-          "B. attribute",
-          "C. hindrance",
-          "D. disadvantage"
-        ],
-        "answer": "B",
-        "explanation": "Attribute在此句中作名词，意为“属性，特征”。"
-      },
-      {
-        "word": "considerable",
-        "question": "Which of the following best translates \"He showed considerable improvement in his performance.\"?",
-        "options": [
-          "A. 他在表现上没有明显进步。",
-          "B. 他的表现有了显著的进步。",
-          "C. 他的表现差强人意。",
-          "D. 他对自己的表现感到满意。"
-        ],
-        "answer": "B",
-        "explanation": "Considerable意为“相当大的，显著的”。"
-      },
-      {
-        "word": "impact",
-        "question": "The severe storm is expected to _____ the flight schedules.",
-        "options": [
-          "A. avoid",
-          "B. impact",
-          "C. support",
-          "D. neglect"
-        ],
-        "answer": "B",
-        "explanation": "Impact在此句中作动词，意为“影响”。"
-      },
-      {
-        "word": "release",
-        "question": "Which of the following best translates \"release the tension\"?",
-        "options": [
-          "A. 释放紧张",
-          "B. 增加压力",
-          "C. 保持稳定",
-          "D. 限制自由"
-        ],
-        "answer": "A",
-        "explanation": "Release the tension意为“释放压力，放松”。"
-      }
-    ],
-    "last_question_fingerprints": [
-      "cf19a84f50b752ef7af2e7776a8c8a3ecc7cc2dc528fde2f35bdb0f40b518cd4",
-      "d5c392f150219a15c43940df881575c2fe7d96f392d5bff6e6b954a342c7520e",
-      "b2448f1f1234230b948430155a0d746984720c8bcfab51e1f630fa02c0db06e1",
-      "d41e7cd87997a77b22d3f6f36ce3b93a83800e2a6cb37486f3fae79dd559a5ed",
-      "61ae12f3eec3925ace62a67fccb2840704924038f16d42613b44cc529eedf453",
-      "6caab60aebef41b2a9e81aa95299da75f91da9c960a63ca012dfe490560262e0",
-      "c91e07bfcec56682748f4a4aa302c8f6ac36ab9686506f35590e2a10fa95830d",
-      "1b9a55fcab82f8d01da7f0cfa85eee688f3acffc8d39bd12d45fc7a8254bfba9",
-      "1e2b396d1f7158cdcd9b42e5e2f6d0ed30d21e80db30837df856e9174da367b2",
-      "e8aca5cb2724ec72b2393d1b9a78888cf8e8ec5f4dbf7bcdca2756d5e676be61"
-    ]
+    "previous_questions": [],
+    "last_question_fingerprints": []
   },
   "runs": {
     "2026-06-18": {
@@ -510,6 +388,10 @@
     "2026-07-22": {
       "kind": "quiz-2",
       "file": "daily/2026/07/2026-07-22-quiz-2.md"
+    },
+    "2026-07-23": {
+      "kind": "story",
+      "file": "daily/2026/07/2026-07-23-story.md"
     }
   }
 }
